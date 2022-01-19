@@ -14,3 +14,5 @@ I am Open-Source enthusiast.
 
 
 # More
+- https://github.com/pymhk
+- https://twitter.com/lazy_seagull

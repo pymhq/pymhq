@@ -19,9 +19,9 @@ I am also interested in:
 
 
 # Public releases
-- https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aws-app-runner (2021)
-- https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html (2020)
-- https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa (2019)
+- https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aws-app-runner
+- https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html 
+- https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 
 
 
 # More

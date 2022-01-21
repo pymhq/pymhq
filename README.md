@@ -18,7 +18,7 @@ I am also interested in:
 - HPC 
 
 
-# Public releases
+# Public Releases
 - https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aws-app-runner
 - https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html 
 - https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 

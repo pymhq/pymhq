@@ -3,6 +3,7 @@ I am currently a Software Engineer at AWS. Working at AWS Containers. My tenure 
 
 I am the founding engineer of AWS App Runner: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services. 
 
+
 My specialties: 
 - Cloud-Native
 - Distributed System
@@ -15,9 +16,6 @@ I am also interested in:
 - Quantum Computing
 - Blockchain
 - HPC 
-- Kubernetes
-- Rust
-
 
 
 # More

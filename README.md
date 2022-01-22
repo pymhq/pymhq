@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Software Engineer at AWS. Working at [AWS Containers](https://aws.amazon.com/containers/). My tenure cross ```FinTech+Cloud``` - ```Health+Voice Assistant``` - ```CloudNative Serverless```. Open-Source enthusiast. 
+I am currently a Software Engineer at [AWS Containers](https://aws.amazon.com/containers/). My tenure cross ```FinTech+Cloud``` - ```Health+Voice Assistant``` - ```CloudNative Serverless```. Open-Source enthusiast. 
 
 I am founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services. 
 

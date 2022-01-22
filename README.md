@@ -4,6 +4,7 @@ I am currently a Software Engineer at [AWS Containers](https://aws.amazon.com/co
 - My tenure across ```FinTech+Cloud``` - ```Health+Voice Assistant``` - ```CloudNative Serverless```
 - Open-Source enthusiast
 - Founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
+- Founder & organizer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 
 
 My specialties: 
@@ -27,6 +28,5 @@ I am also interested in:
 
 
 # More
-- https://github.com/CloudNative-Serverless-Meetup
-- https://twitter.com/lazy_seagull
+- 🐧 https://twitter.com/lazy_seagull
 

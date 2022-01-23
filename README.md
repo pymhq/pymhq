@@ -14,6 +14,7 @@ My specialties:
 - Serverless 
 - Observability
 - Database & Storage
+- PaaS / IaaS / SaaS
 
 I am also interested in:
 - Quantum Computing

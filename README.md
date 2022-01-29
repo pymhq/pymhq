@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Software Engineer at [AWS Containers](https://aws.amazon.com/containers/). 
+I am currently a Software Engineer at [AWS Containers](https://aws.amazon.com/containers/), working on App Runner, Beanstalk and ECS Fargate.
 
 - My tenure across 
   - ```FinTech+Cloud``` - ```Health+Voice Assistant``` - ```CloudNative Serverless```

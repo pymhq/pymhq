@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am currently a Software Engineer at [AWS Containers](https://aws.amazon.com/containers/). 
 
-- My tenure across ```FinTech+Cloud``` - ```Health+Voice Assistant``` - ```CloudNative Serverless```
+- My tenure across 
+ - ```FinTech+Cloud``` - ```Health+Voice Assistant``` - ```CloudNative Serverless```
+ - 🏢 ```Blackfoot``` - ```Port99``` - ```Blueshift``` - ```re:Invent``` - ```Port99```
 - Open-Source enthusiast
 - Inventor of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
 - Founder & organizer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)

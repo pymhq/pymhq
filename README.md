@@ -17,6 +17,7 @@ I am also interested in:
 - Quantum Computing
 - Blockchain
 - HPC 
+- Machine Learning
 
 
 # Public Releases

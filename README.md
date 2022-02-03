@@ -12,6 +12,8 @@ My specialties:
 - Serverless 
 - Observability
 - Database & Storage
+- Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/) etc.
+
 
 I am also interested in:
 - Quantum Computing

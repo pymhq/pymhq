@@ -8,8 +8,7 @@ I am currently a Software Engineer at [AWS Containers](https://aws.amazon.com/co
 My specialties: 
 - Cloud-Native
 - Distributed System
-- Container Compute
-- Serverless 
+- Serverless & Container Compute 
 - Observability
 - Database & Storage
 - Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/) etc.

@@ -2,7 +2,7 @@
 I am currently a Software Engineer at [AWS Containers](https://aws.amazon.com/containers/), working on App Runner, Beanstalk and ECS Fargate.
 
 - Open-Source enthusiast. Founder & organizer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
-- Inventor of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
+- Founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
 
 
 My specialties: 
@@ -11,7 +11,7 @@ My specialties:
 - Serverless & Container Compute 
 - Observability
 - Database & Storage
-- Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/) etc.
+- Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [gRPC](https://grpc.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/) etc.
 
 
 I am also interested in:

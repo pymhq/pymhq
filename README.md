@@ -24,6 +24,7 @@ I am also interested in:
 
 
 # Public Releases
+- https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/
 - https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aws-app-runner
 - https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html 
 - https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 

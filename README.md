@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Software Engineer at [AWS Containers](https://aws.amazon.com/containers/), working on App Runner, Beanstalk and ECS Fargate.
+I am currently a Senior Software Engineer at [AWS Containers](https://aws.amazon.com/containers/), working on App Runner, Beanstalk and ECS Fargate.
 
 - Open-Source enthusiast. Founder & operator of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services

@@ -20,11 +20,23 @@ I am also interested in:
 - Geography
 
 
-# Public Releases
+# ▸ Public Releases
 - https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/
 - https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aws-app-runner
 - https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html 
 - https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 
+
+
+# ▸ Learn more about AWS App Runner
+- [Q&A with AWS VP of Compute Services Deepak Singh about AWS App Runner](https://www.infoq.com/news/2021/06/deepak-singh-aws/)
+- https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/
+- https://aws.amazon.com/apprunner/
+- https://github.com/aws/apprunner-roadmap
+
+# ▸ Learn more about AWS Containers
+- https://aws.amazon.com/containers/
+- [Our organizational principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)
+- https://github.com/aws-containers
 
 
 # More

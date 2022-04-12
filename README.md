@@ -20,7 +20,11 @@ I am also interested in:
 - Geography
 
 
+# Blog Post
+- https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/
+
 # Public Releases
+- https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/
 - https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/
 - https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aws-app-runner
 - https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html 

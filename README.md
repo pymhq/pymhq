@@ -36,6 +36,7 @@ I am also interested in:
 - https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/
 - https://aws.amazon.com/apprunner/
 - https://github.com/aws/apprunner-roadmap
+- https://aws.amazon.com/blogs/containers/tag/app-runner/
 - [**Containers from the Couch** - App Runner playlist](https://www.youtube.com/playlist?list=PLehXSATXjcQHjXDhdlypt0IB5BVD2xnoc)
 
 # Learn more about AWS Containers

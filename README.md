@@ -14,10 +14,10 @@ My specialties:
 
 I am also interested in:
 - Quantum Computing
-- Blockchain, Web3, Crypto etc.
-- Machine Learning, HPC
 - Electric Vehicle
 - Geography
+- Machine Learning, HPC
+- Blockchain, Web3, Crypto etc.
 
 
 # Blog Post

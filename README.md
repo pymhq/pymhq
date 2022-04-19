@@ -20,7 +20,7 @@ I am also interested in:
 - Blockchain, Web3, Crypto etc.
 
 
-# Blog Post
+# Tech Article
 - https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/
 
 # Public Releases

@@ -20,6 +20,9 @@ I am also interested in:
 - Blockchain, Web3, Crypto etc.
 
 
+# Tech Talk
+- [Containers from the Couch: AWS App Runner X-Ray Integration Feature Launch](https://youtu.be/cVr8N7enCMM)
+
 # Tech Article
 - https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/
 

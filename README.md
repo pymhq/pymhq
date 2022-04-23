@@ -24,7 +24,7 @@ I am also interested in:
 - [Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch](https://youtu.be/cVr8N7enCMM)
 
 # Tech Article
-- https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/
+- [AWS Blog | Tracing an AWS App Runner service using AWS X-Ray with OpenTelemetry](https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/)
 
 # Public Releases
 - https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/

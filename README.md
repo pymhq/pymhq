@@ -36,11 +36,11 @@ I am also interested in:
 
 # Learn more about AWS App Runner
 - [InfoQ | Q&A with AWS VP of Compute Services Deepak Singh about AWS App Runner](https://www.infoq.com/news/2021/06/deepak-singh-aws/)
+- [Containers from the Couch | App Runner playlist](https://www.youtube.com/playlist?list=PLehXSATXjcQHjXDhdlypt0IB5BVD2xnoc)
+- [AWS Blog | Tag: AWS App Runner](https://aws.amazon.com/blogs/containers/tag/app-runner/)
 - [AWS Blog | Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 - https://aws.amazon.com/apprunner/
 - https://github.com/aws/apprunner-roadmap
-- [AWS Blog | Tag: AWS App Runner](https://aws.amazon.com/blogs/containers/tag/app-runner/)
-- [Containers from the Couch | App Runner playlist](https://www.youtube.com/playlist?list=PLehXSATXjcQHjXDhdlypt0IB5BVD2xnoc)
 
 # Learn more about AWS Containers
 - [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)

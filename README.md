@@ -20,12 +20,6 @@ I am also interested in:
 - Blockchain, Web3, Crypto etc.
 
 
-# Tech Talk
-- [Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch](https://youtu.be/cVr8N7enCMM)
-
-# Tech Article
-- [AWS Blog | Tracing an AWS App Runner service using AWS X-Ray with OpenTelemetry](https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/)
-
 # Public Releases
 - https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/
 - https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/
@@ -33,6 +27,11 @@ I am also interested in:
 - https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html 
 - https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 
 
+# Tech Talk
+- [Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch](https://youtu.be/cVr8N7enCMM)
+
+# Tech Article
+- [AWS Blog | Tracing an AWS App Runner service using AWS X-Ray with OpenTelemetry](https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/)
 
 # Learn more about AWS App Runner
 - [InfoQ | Q&A with AWS VP of Compute Services Deepak Singh about AWS App Runner](https://www.infoq.com/news/2021/06/deepak-singh-aws/)

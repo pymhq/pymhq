@@ -28,6 +28,7 @@ I am also interested in:
 - https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 
 
 # Tech Talk
+- [Save the date: AWS Containers events in May](https://aws.amazon.com/blogs/containers/save-the-date-aws-containers-events-in-may/)
 - [Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch](https://youtu.be/cVr8N7enCMM)
 
 # Tech Article

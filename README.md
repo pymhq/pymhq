@@ -35,6 +35,7 @@ I am also interested in:
 
 # Tech Article
 https://aws.amazon.com/blogs/containers/author/yimipeng/
+- [AWS Blog | Enabling AWS X-Ray tracing for AWS App Runner service using AWS Copilot CLI](https://aws.amazon.com/blogs/containers/enabling-aws-x-ray-tracing-for-aws-app-runner-service-using-aws-copilot-cli/)
 - [AWS Blog | Observability for AWS App Runner VPC networking](https://aws.amazon.com/blogs/containers/observability-for-aws-app-runner-vpc-networking/)
 - [AWS Blog | Tracing an AWS App Runner service using AWS X-Ray with OpenTelemetry](https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/)
 

@@ -29,7 +29,7 @@ I am also interested in:
 
 # Tech Talk
 - [Container Day – Docker Con | How Developers can get to production web applications at scale easily](https://youtu.be/Iyp9Ugk9oRs)
-- [Containers from the Couch | AWS Container Day with Docker](https://awscontainerdaydocker.splashthat.com/)
+- [Containers from the Couch | AWS Container Day with Docker](https://awscontainerdaydocker.splashthat.com/) [twitch](https://www.twitch.tv/aws/video/1481107467)
 - [Save the date: AWS Containers events in May](https://aws.amazon.com/blogs/containers/save-the-date-aws-containers-events-in-may/)
 - [Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch](https://youtu.be/cVr8N7enCMM)
 

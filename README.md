@@ -3,7 +3,7 @@ I am currently a Senior Software Engineer at [AWS Containers](https://aws.amazon
 
 - Open-Source enthusiast. Founder & operator of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
-- Pathfinder | Builder | Inventor | Influencer | Speaker | Bar Raiser
+- Pathfinder | Inventor | Influencer | Bar Raiser
 
 
 My specialties: 

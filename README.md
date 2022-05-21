@@ -46,6 +46,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Blog | Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 - https://aws.amazon.com/apprunner/
 - https://github.com/aws/apprunner-roadmap
+- [AWS Observability Recipes | App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/)
 
 # Learn more about AWS Containers
 - [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)

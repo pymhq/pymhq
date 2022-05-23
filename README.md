@@ -19,6 +19,9 @@ I am also interested in:
 - Machine Learning, HPC
 - Blockchain, Web3, Crypto etc.
 
+# News
+- May 20th, 2022 - [AWS open source news and updates, #113](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
+- May 20th, 2022 - [**AWS Observability Recipes** for App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/) now "Fresh out"!
 
 # Public Releases
 - https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/
@@ -35,8 +38,6 @@ I am also interested in:
 
 # Tech Article
 https://aws.amazon.com/blogs/containers/author/yimipeng/
-- [AWS open source news and updates, #113](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
-- [AWS Observability Recipes | App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/)
 - [AWS Blog | Enabling AWS X-Ray tracing for AWS App Runner service using AWS Copilot CLI](https://aws.amazon.com/blogs/containers/enabling-aws-x-ray-tracing-for-aws-app-runner-service-using-aws-copilot-cli/)
 - [AWS Blog | Observability for AWS App Runner VPC networking](https://aws.amazon.com/blogs/containers/observability-for-aws-app-runner-vpc-networking/)
 - [AWS Blog | Tracing an AWS App Runner service using AWS X-Ray with OpenTelemetry](https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/)

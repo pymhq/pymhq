@@ -53,7 +53,8 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 # Learn more about AWS Containers
 - [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)
-- https://aws.amazon.com/containers/
+- [Compute on AWS](https://aws.amazon.com/products/compute/)
+- [Containers at AWS](https://aws.amazon.com/containers/)
 - https://github.com/aws-containers
 
 

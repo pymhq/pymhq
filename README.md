@@ -27,7 +27,7 @@ I am also interested in:
 - https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html 
 - https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 
 
-# Tech Talk
+# Tech Talk 
 - Container Day – Docker Con | How Developers can get to production web applications at scale easily [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467)
 - [Containers from the Couch | AWS Container Day with Docker](https://awscontainerdaydocker.splashthat.com/)
 - [Save the date: AWS Containers events in May](https://aws.amazon.com/blogs/containers/save-the-date-aws-containers-events-in-may/)
@@ -35,6 +35,7 @@ I am also interested in:
 
 # Tech Article
 https://aws.amazon.com/blogs/containers/author/yimipeng/
+- [AWS open source news and updates, #113](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
 - [AWS Observability Recipes | App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/)
 - [AWS Blog | Enabling AWS X-Ray tracing for AWS App Runner service using AWS Copilot CLI](https://aws.amazon.com/blogs/containers/enabling-aws-x-ray-tracing-for-aws-app-runner-service-using-aws-copilot-cli/)
 - [AWS Blog | Observability for AWS App Runner VPC networking](https://aws.amazon.com/blogs/containers/observability-for-aws-app-runner-vpc-networking/)

@@ -21,7 +21,7 @@ I am also interested in:
 
 # News
 - May 20th, 2022 - [AWS open source news and updates, #113](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
-- May 20th, 2022 - [AWS Observability Recipes for App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/) now "Fresh out"!
+- May 20th, 2022 - [AWS Observability Recipes for App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/) now "Fresh out"!👨‍🍳
 
 # Public Releases
 - https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/

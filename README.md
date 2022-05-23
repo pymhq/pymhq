@@ -24,7 +24,7 @@ I am also interested in:
 - May 20th, 2022 - [AWS Observability Recipes for App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/) now "Fresh out"!👨‍🍳
 - April, 2022 - [AWS Container Day with Docker](https://awscontainerdaydocker.splashthat.com/) open for registration. 
 - April, 2022 - [Save the date: AWS Containers events in May](https://aws.amazon.com/blogs/containers/save-the-date-aws-containers-events-in-may/)
-
+- April, 2022 - [Observability newsletter: AWS App Runner goes Otel](https://o11y.news/2022-04-18/)
 
 # Public Releases
 - https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/

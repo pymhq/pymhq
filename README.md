@@ -15,7 +15,7 @@ My specialties:
 I am also interested in:
 - Quantum Computing
 - Electric Vehicle
-- Geography
+- limate, Geography
 - Machine Learning, HPC
 - Blockchain, Web3, Crypto etc.
 

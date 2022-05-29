@@ -61,7 +61,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 # More
 - [Personal website](http://yimingpeng.com/)
-- TWTR [@pymhq](https://twitter.com/pymhq)
+- Twitter [@pymhq](https://twitter.com/pymhq)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pymhk.pymhk)

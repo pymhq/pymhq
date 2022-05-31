@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am currently a Senior Software Engineer at [AWS Containers](https://aws.amazon.com/containers/), working on App Runner, Elastic Beanstalk and ECS Fargate.
 
-- Open-Source enthusiast. Founder & operator of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
+- Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
 - Pathfinder | Inventor | Influencer | Bar Raiser
 
@@ -60,8 +60,9 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 
 # More
-- [Personal website](http://yimingpeng.com/)
-- Twitter [@pymhq](https://twitter.com/pymhq)
+- [personal website](http://yimingpeng.com/)
+- [twitter](https://twitter.com/pymhq)
+- [linkedin](https://www.linkedin.com/in/pengyiming/)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pymhk.pymhk)

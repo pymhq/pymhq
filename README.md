@@ -22,6 +22,7 @@ I am also interested in:
 # News
 - May 20th, 2022 - [AWS open source news and updates, #113](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
 - May 20th, 2022 - [AWS Observability Recipes for App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/) now "Fresh out"!👨‍🍳
+- May 11, 2022 - [AWS Summit Stockholm 2022](https://aws.amazon.com/events/summits/stockholm/)
 - April, 2022 - [AWS Container Day with Docker](https://awscontainerdaydocker.splashthat.com/) open for registration. 
 - April, 2022 - [Save the date: AWS Containers events in May](https://aws.amazon.com/blogs/containers/save-the-date-aws-containers-events-in-may/)
 - April, 2022 - [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/)

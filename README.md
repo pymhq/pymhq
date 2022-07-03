@@ -4,7 +4,6 @@ I am currently a Senior Software Engineer at [AWS Compute Services](https://aws.
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```(2021): https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
 - Founding engineer of ```Alexa Health & Wellness```(2019): [New ways to manage your medications at home using Alexa](https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa)
-- Ex-operator & maintainer of [AWS Bill Run](https://aws.amazon.com/premiumsupport/knowledge-center/monthly-aws-billing/)
 - Pathfinder | Inventor | Influencer | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 
 

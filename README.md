@@ -42,8 +42,8 @@ I am also interested in:
 - [Upcoming..] New book about Cloud-Native 
 
 ## Tech Talk 
-- Container Day – Docker Con | How Developers can get to production web applications at scale easily [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467)
-- Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch [YouTube](https://youtu.be/cVr8N7enCMM)
+- Container Day – Docker Con | How Developers can get to production web applications at scale easily 🎥[YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467)
+- Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch 🎥[YouTube](https://youtu.be/cVr8N7enCMM)
 
 ## Tech Article
 https://aws.amazon.com/blogs/containers/author/yimipeng/

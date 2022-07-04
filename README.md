@@ -12,6 +12,11 @@ My specialties:
 - Distributed System
 - Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [gRPC](https://grpc.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/), [Docker](https://www.docker.com/) etc.
 
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+<img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="kafka Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="VUE Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Visual Studio Logo" width="50" height="50"/>
+</p>
+
 
 I am also interested in:
 - Quantum Computing

@@ -70,7 +70,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 # More
 - ![Twitter Followers](https://img.shields.io/twitter/follow/pymhq?style=social)
-- ![Linkedin Followers](https://img.shields.io/badge/LinkedIn-4k-blue?style=social&logo=linkedin)
+- ![Linkedin Followers](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)
 - [personal website](http://yimingpeng.com/)
 - [twitter](https://twitter.com/pymhq)
 - [linkedin](https://www.linkedin.com/in/pengyiming/)

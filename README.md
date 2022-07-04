@@ -69,8 +69,6 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
 # More
-- ![Twitter Followers](https://img.shields.io/twitter/follow/pymhq?style=social)
-- ![Linkedin Followers](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)
 - [personal website](http://yimingpeng.com/)
 - [twitter](https://twitter.com/pymhq)
 - [linkedin](https://www.linkedin.com/in/pengyiming/)

@@ -13,7 +13,7 @@ My specialties:
 - Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [gRPC](https://grpc.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/), [Docker](https://www.docker.com/) etc.
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 <p>
-<img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="kafka Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/serverless.svg" alt="serverless Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="jetbrains Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>  
+<img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="kafka Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/serveless.svg" alt="serverless Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="jetbrains Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>  
 </p>
 
 I am also interested in:

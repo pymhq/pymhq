@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Senior Software Development Engineer at [AWS Compute Services](https://aws.amazon.com/products/compute/), working on App Runner, Amazon Elastic Container Service (ECS) and AWS Fargate (Serverless Containers). 
+I am currently a Senior Software Development Engineer at [AWS Compute Services](https://aws.amazon.com/products/compute/) (App Runner, ECS Fargate). 
 
 - Seasoned technical leader,
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)

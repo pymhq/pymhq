@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Senior Software Development Engineer at [AWS Compute Services](https://aws.amazon.com/products/compute/) (App Runner, ECS Fargate). 
+I am currently a Senior Software Engineer at [AWS Compute Services](https://aws.amazon.com/products/compute/) (App Runner, ECS Fargate). 
 
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```(2021): https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services

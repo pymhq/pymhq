@@ -71,7 +71,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
-# More about professions
+# Professions
 
 - Day-to-day Hours spent
 ![Pie-chart hours spent](svg/pie-chart.svg)

@@ -71,6 +71,12 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
+# More about professions
+
+- Hours spent
+![Pie-chart hours spent](svg/pie-chart.svg)
+
+
 # More
 - [personal website](http://yimingpeng.com/)
 - [twitter](https://twitter.com/pymhq)

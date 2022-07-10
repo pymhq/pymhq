@@ -73,7 +73,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 # More about professions
 
-- Hours spent
+- Day-to-day Hours spent
 ![Pie-chart hours spent](svg/pie-chart.svg)
 
 

@@ -76,13 +76,13 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - Day-to-day Hours spent
 ![Pie-chart hours spent](svg/pie-chart.svg)
 
-- More
+- Special Interests
   * Pi Day onboard
   * Entire tenure has been on ```CloudNative & Serverless```
 <p align="center">
   <img 
     width="500"
-    src="svg/phases.png"
+    src="svg/si.png"
   >
 </p>
 

@@ -79,7 +79,12 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - More
   * Pi Day onboard
   * Entire tenure has been on ```CloudNative & Serverless```
-<img src="svg/phases.png" width="500" align="center">
+<p align="center">
+  <img 
+    width="500"
+    src="svg/phases.png"
+  >
+</p>
 
 
 # More

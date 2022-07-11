@@ -77,8 +77,8 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 ![Pie-chart hours spent](svg/pie-chart.svg)
 
 - More
- * Pi Day onboard
- * Entire tenure has been on ```CloudNative & Serverless```
+  * Pi Day onboard
+  * Entire tenure has been on ```CloudNative & Serverless```
 <img src="svg/phases.png" width="500" align="center">
 
 

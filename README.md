@@ -76,6 +76,9 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - Day-to-day Hours spent
 ![Pie-chart hours spent](svg/pie-chart.svg)
 
+- 
+![Phases](svg/phases.png)
+
 
 # More
 - [personal website](http://yimingpeng.com/)

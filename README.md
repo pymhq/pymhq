@@ -77,7 +77,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 ![Pie-chart hours spent](svg/pie-chart.svg)
 
 - Tenure
-<img src="svg/phases.png" width="1000">
+<img src="svg/phases.png" width="500">
 
 
 # More

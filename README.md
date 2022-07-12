@@ -83,7 +83,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
   * Architect / Advocate / Marketing
   * Individual Contributor
   * Bar Raiser 
-  * Misc 
+  * Miscs
   
   
 

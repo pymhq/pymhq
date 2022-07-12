@@ -78,8 +78,11 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
   * Tech Lead / Tech Advisor / Proxy Manager
   * Product / Customers 
   * People Management
+  * Recruiting 
   * Mentoring
   * Architect / Advocate / Marketing
+  * Individual Contributor
+  * Bar Raiser 
   * Misc 
   
   

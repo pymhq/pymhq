@@ -75,6 +75,14 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 - Day-to-day Hours spent
 ![Pie-chart hours spent](svg/pie-chart.svg)
+  * Tech Lead / Tech Advisor / Proxy Manager
+  * Product / Customers 
+  * People Management
+  * Mentoring
+  * Architect / Advocate / Marketing
+  * Misc 
+  
+  
 
 - Entire tenure has been on ```CloudNative & Serverless```
 <p align="center">

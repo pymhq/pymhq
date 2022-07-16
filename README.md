@@ -42,7 +42,6 @@ I am also interested in:
 - https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 
 
 # Publications
-- [Upcoming..] New book about Cloud-Native 
 
 ## Tech Talk 
 - Container Day – Docker Con | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467)

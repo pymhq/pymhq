@@ -39,7 +39,7 @@ I am also interested in:
 - https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/
 - https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aws-app-runner
 - https://developer.amazon.com/en-US/blogs/alexa/alexa-skills-kit/2020/08/hipaa-eligible-skills.html 
-- https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 📰 [Forbes](https://www.forbes.com/sites/krisholt/2019/11/26/amazons-alexa-can-now-remind-you-when-to-take-your-medications/) | [](https://techcrunch.com/2019/11/26/amazon-launches-medication-management-features-for-alexa/) | [CNBC](https://www.cnbc.com/2019/11/26/amazon-alexa-will-now-remind-you-when-to-take-your-pills.html)
+- https://www.aboutamazon.com/news/devices/new-ways-to-manage-your-medications-at-home-using-alexa 📰 [Forbes](https://www.forbes.com/sites/krisholt/2019/11/26/amazons-alexa-can-now-remind-you-when-to-take-your-medications/) | [TechCrunch](https://techcrunch.com/2019/11/26/amazon-launches-medication-management-features-for-alexa/) | [CNBC](https://www.cnbc.com/2019/11/26/amazon-alexa-will-now-remind-you-when-to-take-your-pills.html)
 
 # Publications
 

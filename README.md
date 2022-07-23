@@ -76,7 +76,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 ![Pie-chart hours spent](svg/pie-chart.svg)
   * Tech Lead / Tech Advisor / Proxy Manager / Force Multiplier
   * Product / Customers / Business / GTM
-  * People Management / Team Management
+  * People Management / Team Management / TPM
   * Recruiting 
   * Mentoring
   * Architect / Advocate / Marketing

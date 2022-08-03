@@ -24,7 +24,7 @@ I am also interested in:
 - Blockchain, Web3, Crypto etc.
 
 # News
-- August 3, 2022 - Learn more about [Building Multi-Tenant Routing And Scaling With Envoy](https://sched.co/182KU) in [KubeCon + CloudNative NA 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
+- August 3, 2022 - [Building Multi-Tenant Routing And Scaling With Envoy](https://sched.co/182KU) in [KubeCon + CloudNative NA 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - May 20th, 2022 - [AWS open source news and updates, #113](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
 - May 20th, 2022 - [AWS Observability Recipes for App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/) now "Fresh out"!👨‍🍳
 - May 11, 2022 - [AWS Summit Stockholm 2022](https://aws.amazon.com/events/summits/stockholm/)

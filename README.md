@@ -3,7 +3,7 @@ I am currently a Senior Software Engineer at [AWS Compute Services](https://aws.
 
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```(2021): https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
-- Ex-```AWS Fargate``` [storage](https://aws.amazon.com/blogs/containers/amazon-ecs-on-aws-fargate-now-enables-customers-to-configure-ephemeral-storage-up-to-200gib/)
+- Ex-```AWS Fargate``` [storage](https://aws.amazon.com/blogs/containers/amazon-ecs-on-aws-fargate-now-enables-customers-to-configure-ephemeral-storage-up-to-200gib/), [Fargate on Firecracker](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/)
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | Inventor | [Influencer](https://aws.amazon.com/blogs/containers/author/yimipeng/) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 
 

@@ -54,7 +54,8 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Blog | Observability for AWS App Runner VPC networking](https://aws.amazon.com/blogs/containers/observability-for-aws-app-runner-vpc-networking/)
 - [AWS Blog | Tracing an AWS App Runner service using AWS X-Ray with OpenTelemetry](https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/)
 
-# Learn more about AWS App Runner
+# Learn more about 
+## App Runner
 - [InfoQ | Q&A with AWS VP of Compute Services Deepak Singh about AWS App Runner](https://www.infoq.com/news/2021/06/deepak-singh-aws/)
 - [Containers from the Couch | App Runner playlist](https://www.youtube.com/playlist?list=PLehXSATXjcQHjXDhdlypt0IB5BVD2xnoc)
 - [AWS Blog | Tag: AWS App Runner](https://aws.amazon.com/blogs/containers/tag/app-runner/)
@@ -62,12 +63,12 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - https://aws.amazon.com/apprunner/
 - https://github.com/aws/apprunner-roadmap
 
-# Learn more about AWS Containers
+## Containers
 - [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)
 - [Containers at AWS](https://aws.amazon.com/containers/)
 - https://github.com/aws-containers
 
-# Learn more about AWS Compute Services
+## Compute Services
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 

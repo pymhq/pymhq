@@ -76,12 +76,14 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 - Day-to-day Hours spent
 ![Pie-chart hours spent](svg/pie-chart.svg)
-  * Tech Lead / Tech Advisor / Proxy Manager / Force Multiplier
-  * Product / Customers / Business / GTM
-  * People Management / Team Management / TPM
+  * Tech Lead / Tech Advisor / Force Multiplier
+  * Product: Roadmap, Funding, Customer, Features, Vision
+  * Business / GTM 
+  * TPM: SDLC, Priorities, Milestones, Stakeholders
+  * People Management / Team Management
   * Recruiting 
   * Mentoring
-  * Architect / Advocate / Marketing
+  * Architect / Education / Advocate / Marketing
   * Individual Contributor
   * Bar Raiser 
   * Miscs

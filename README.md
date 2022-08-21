@@ -83,7 +83,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
   * Recruiting 
   * Mentoring
   * Architect / Education / Advocate
-  * PMM / Business / GTM 
+  * PMM / BD / GTM 
   * Individual Contributor
   * Bar Raiser 
   * Miscs

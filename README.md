@@ -24,6 +24,7 @@ I am also interested in:
 - Blockchain, Web3, Crypto etc.
 
 # News
+- SEP, 26, 2022 - [Developer Summit: App Runner](https://aws-startup-lofts.com/amer/loft/san-francisco/e/426a6/building-serverless-web-applications-with-aws-apprunner-in-minutes)
 <!--- 
 - August 3, 2022 - [Building Multi-Tenant Routing And Scaling With Envoy](https://sched.co/182KU) in [KubeCon + CloudNative NA 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 --->

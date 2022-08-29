@@ -3,7 +3,7 @@ I am currently a Senior Software Engineer at [AWS Containers](https://aws.amazon
 
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
-- Products working on: App Runner, [ECS Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/). Built  stealth mode product from 0 to 1 -> App Runner! (2021 GA)
+- Products working on: App Runner, [ECS Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), Elastic Beanstalk. Built  stealth mode product from 0 to 1 -> App Runner! (2021 GA)
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | Inventor | [Influencer](https://aws.amazon.com/blogs/containers/author/yimipeng/) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 
 

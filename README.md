@@ -77,12 +77,14 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 # Professions
 
-- Day-to-day Hours spent
+- Day-to-day Hours spent 
+
+as Tech Lead / Manager (TLM)
 ![Pie-chart hours spent](svg/pie-chart.svg)
   * Tech Lead / Tech Advisor / Force Multiplier
+  * People Management / Team Management
   * Product: Roadmap, Funding, Customer, Features, Vision
   * TPM: SDLC, Priorities, Milestones, Stakeholders
-  * People Management / Team Management
   * Recruiting 
   * Mentoring
   * Architect / Education / Advocate

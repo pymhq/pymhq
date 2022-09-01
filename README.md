@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Senior Software Engineer at [AWS Containers](https://aws.amazon.com/products/compute/) (App Runner, ECS Fargate). 
+I am currently a Senior Software Engineer (TLM) at [AWS Containers](https://aws.amazon.com/products/compute/) (App Runner, ECS Fargate). 
 
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
@@ -25,9 +25,7 @@ I am also interested in:
 
 # News
 - SEP, 26, 2022 - [Developer Summit: App Runner](https://aws-startup-lofts.com/amer/loft/san-francisco/e/426a6/building-serverless-web-applications-with-aws-apprunner-in-minutes)
-<!--- 
-- August 3, 2022 - [Building Multi-Tenant Routing And Scaling With Envoy](https://sched.co/182KU) in [KubeCon + CloudNative NA 2022](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
---->
+- August 3, 2022 - [KubeCon + CloudNative NA 2022 schedule](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)
 - May 20th, 2022 - [AWS open source news and updates, #113](https://dev.to/aws/aws-open-source-news-and-updates-113-16a4)
 - May 20th, 2022 - [AWS Observability Recipes for App Runner](https://aws-observability.github.io/aws-o11y-recipes/apprunner/) now "Fresh out"!👨‍🍳
 - May 11, 2022 - [AWS Summit Stockholm 2022](https://aws.amazon.com/events/summits/stockholm/)

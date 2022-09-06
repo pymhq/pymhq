@@ -37,7 +37,7 @@ I am also interested in:
 # Public Releases
 
 ## Amazon
-- https://docs.aws.amazon.com/apprunner/latest/relnotes/release-2022-08-30-route53.html
+- https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/
 - https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/
 - https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/
 - https://press.aboutamazon.com/news-releases/news-release-details/aws-announces-general-availability-aws-app-runner

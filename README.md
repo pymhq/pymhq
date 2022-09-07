@@ -104,10 +104,6 @@ as Tech Lead / Manager (TLM)
  </p>
 --->
 
-# Volunteering
-- Virtual Grace Hopper Celebration (vGHC) 2020, supported technical on-site interviews for recruiting event.
-- Labor Day 2013, along with other 149 volunteers participating makeing [WORLD'S LARGEST FRESH FRUIT SALAD](https://umassfruitsalad.com/) to celebrate the 150th Anniversary of UMass Amherst. Set [new Guinness World Record](https://www.guinnessworldrecords.com/world-records/largest-fruit-salad) at that time. 
-
 # More
 - [personal website](http://yimingpeng.com/)
 - [twitter](https://twitter.com/pymhq)

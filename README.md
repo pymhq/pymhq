@@ -17,11 +17,10 @@ My specialties:
 </p>
 
 I am also interested in:
-- Quantum Computing
+- Climate, Geography 
+- Cyberpunk 
 - Electric Vehicle
-- Climate, Geography
-- Machine Learning, HPC
-- Blockchain, Web3, Crypto etc.
+- Quantum Computing, Edge Computing etc. all about Compute and Storage (CS)
 
 # News
 - SEP, 26, 2022 - [Developer Summit: App Runner](https://aws-startup-lofts.com/amer/loft/san-francisco/e/426a6/building-serverless-web-applications-with-aws-apprunner-in-minutes)
@@ -64,6 +63,11 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Blog | Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 - https://aws.amazon.com/apprunner/
 - https://github.com/aws/apprunner-roadmap
+
+### Relation with "[Cyberpunk: Edgerunners](https://www.cyberpunk.net/en/edgerunners)"
+```
+Cyberpunk: Edgerunners (Japanese: サイバーパンク エッジランナーズ, Hepburn: Saibāpanku Ejjirannāzu) is a 2022 Polish-Japanese cyberpunk web anime series based on the video game Cyberpunk 2077 by CD Projekt Red. The series was produced by Studio Trigger under the supervision of CD Projekt and premiered on Netflix in September 2022.
+```
 
 ## Containers
 - [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)

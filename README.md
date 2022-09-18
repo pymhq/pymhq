@@ -20,7 +20,7 @@ I am also interested in:
 - Climate, Geography 
 - Cyberpunk 
 - Electric Vehicle
-- Quantum Computing, Edge Computing etc. all about Compute and Storage (CS)
+- Quantum Computing, Edge Computing, ARM etc. all about Compute and Storage (CS)
 
 # News
 - SEP, 26, 2022 - [Developer Summit: App Runner](https://aws-startup-lofts.com/amer/loft/san-francisco/e/426a6/building-serverless-web-applications-with-aws-apprunner-in-minutes)

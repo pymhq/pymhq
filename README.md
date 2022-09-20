@@ -18,8 +18,7 @@ My specialties:
 
 I am also interested in:
 - Climate, Geography 
-- Cyberpunk 
-- Electric Vehicle
+- Electric Vehicle, RV
 - Quantum Computing, Edge Computing, ARM etc. all about Compute and Storage (CS)
 
 # News

@@ -46,7 +46,7 @@ I am also interested in:
 # Publications
 
 ## Tech Talk 
-- Container Day – Docker Con | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (16K views on live) | [Event Agenda](https://awscontainerdaydocker.splashthat.com/)
+- [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (16K views on live)
 - Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch 📺 [YouTube](https://youtu.be/cVr8N7enCMM)
 
 ## Tech Article

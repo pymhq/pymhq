@@ -22,6 +22,7 @@ I am also interested in:
 - Quantum Computing, Edge Computing, ARM etc. all about Compute and Storage (CS)
 
 # News
+- OCT, 3, 2022 - [AWS at KubeCon + CloudNativeCon North America 2022](https://aws.amazon.com/blogs/containers/aws-at-kubecon-cloudnativecon-north-america-2022/)
 - OCT, 14, 2022 - [ECS and AppRunner Networking Event](https://ecsandapprunnernetworkingevent.splashthat.com/)
 - SEP, 26, 2022 - [Developer Summit: App Runner](https://aws-startup-lofts.com/amer/loft/san-francisco/e/426a6/building-serverless-web-applications-with-aws-apprunner-in-minutes)
 - August 3, 2022 - [KubeCon + CloudNative NA 2022 schedule](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/)

@@ -22,6 +22,7 @@ I am also interested in:
 - Quantum Computing, Edge Computing, ARM etc. all about Compute and Storage (CS)
 
 # News
+- NOV, 2022 - [Serverless and Application Integration sessions at AWS re:Invent 2022](https://aws.amazon.com/blogs/compute/serverless-and-application-integration-sessions-at-aws-reinvent-2022/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=d82cc95e9e)
 - October 26, 2022 - [Open Source After Dark Detroit](https://opensourceafterdarkdetroit.splashthat.com/)
 - October 24, 2022 - [Deep Dive for DevOps on Serverless Containers with Amazon ECS and AWS Fargate](https://technicaldeepdiveonserverlessc.splashthat.com/)
 - OCT, 3, 2022 - [AWS at KubeCon + CloudNativeCon North America 2022](https://aws.amazon.com/blogs/containers/aws-at-kubecon-cloudnativecon-north-america-2022/)
@@ -74,6 +75,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)
 - [Containers at AWS](https://aws.amazon.com/containers/)
 - https://github.com/aws-containers
+- [Welcome to the AWS Containers Blog](https://aws.amazon.com/blogs/containers/welcome-to-the-aws-containers-blog/)
 
 ## Compute Services
 - [Compute on AWS](https://aws.amazon.com/products/compute/)

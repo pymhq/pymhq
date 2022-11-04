@@ -4,7 +4,7 @@ I am currently a Senior Software Engineer (TLM) at [AWS Containers](https://aws.
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 - Founding engineer of ```AWS App Runner```: https://aws.amazon.com/apprunner/, a new AWS service that provides a simplified infrastructure-less abstraction for multi-concurrent web applications & API-based services
 - Products working on: [ECS Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), App Runner, Elastic Beanstalk, Lambda. Built  stealth mode product from 0 to 1 -> App Runner! (2021 GA)
-- [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | [Inventor](https://reinvent.awsevents.com/) / [Builder](https://aws.amazon.com/builders-library/) | [Influencer](https://aws.amazon.com/blogs/containers/author/yimipeng/) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
+- [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | [Inventor](https://reinvent.awsevents.com/), [Builder](https://aws.amazon.com/builders-library/) | [Influencer](https://aws.amazon.com/blogs/containers/author/yimipeng/),  [Speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 
 
 My specialties: 

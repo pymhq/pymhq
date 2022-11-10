@@ -93,8 +93,9 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
-<--
-# Professions
+<!--
+# Professions 
+
 
 - Day-to-day Hours spent 
 
@@ -111,11 +112,13 @@ as Tech Lead / Manager (TLM)
   * Individual Contributor
   * Bar Raiser 
   * Miscs
-
 -->
+
 
 # Technical Fields
 - Entire tenure has been on ```CloudNative & Serverless```
+
+![Technical Fields](svg/tf.jpeg)
 
 <!--- <p align="center">
   <img 

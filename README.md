@@ -105,7 +105,7 @@ as Tech Lead / Manager (TLM)
   
   
 
-- Entire tenure has been on ```CloudNative & Serverless```
+- Entire tenure has been on ```CloudNative & Serverless``` IaaS --> PaaS --> CaaS --> FaaS
 
 <!--- <p align="center">
   <img 

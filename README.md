@@ -118,7 +118,7 @@ as Tech Lead / Manager (TLM)
 # Technical Fields
 - Entire tenure has been on ```CloudNative & Serverless```
 
-![Technical Fields](svg/tf.jpeg)
+![Technical Fields](svg/tf.001.jpeg)
 
 <!--- <p align="center">
   <img 

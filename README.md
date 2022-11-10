@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Senior Software Engineer (TLM) at AWS. 
+I am currently a Senior Software Engineer (TLM) based in Seattle (WA). 
 
 - Technical fields: [Containers & Serverless](https://aws.amazon.com/products/compute/)
 - Products work on: [ECS Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Built  stealth mode product from 0 to 1 -> 2021 GA), Lambda, S3.

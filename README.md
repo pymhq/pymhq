@@ -1,25 +1,33 @@
 ### Hi there 👋
-I am currently a Senior Software Engineer (TLM) based in Seattle (WA). 
+I am currently a Senior Software Engineer (TLM). 
 
 - Technical fields: [Containers & Serverless](https://aws.amazon.com/products/compute/)
 - Products work on: [ECS Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Built  stealth mode product from 0 to 1 -> 2021 GA), Lambda, S3.
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/) | [Speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url) & [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 
-
+<!--
 My specialties: 
 - Cloud-Native | Container Compute | Serverless | Open-Source
 - Distributed System
-- Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [gRPC](https://grpc.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/), [Docker](https://www.docker.com/) etc.
+- Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [gRPC](https://grpc.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/), [Docker](https://www.docker.com/) etc.  -->
+
+
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+<!--
 <p>
 <img src="https://cncf-branding.netlify.app/img/other/cncf/horizontal/color/cncf-color.svg" alt="cncf Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="kafka Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker Logo" width="50" height="50"/> <img src="https://cncf-branding.netlify.app/img/projects/envoy/stacked/color/envoy-stacked-color.svg" alt="envoyproxy Logo" width="50" height="50"/> <img src="https://cncf-branding.netlify.app/img/projects/containerd/stacked/color/containerd-stacked-color.svg" alt="containerd Logo" width="50" height="50"/> <img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.svg" alt="grpc Logo" width="50" height="50"/> <img src="https://cncf-branding.netlify.app/img/projects/opentelemetry/icon/color/opentelemetry-icon-color.svg" alt="opentelemetry Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jetbrains-1.svg" alt="jetbrains Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>  
-</p>
+</p> 
+-->
 
+<!--
 I am also interested in:
 - Climate, Geography 
 - Electric Vehicle, RV
 - Quantum Computing, Edge Computing, ARM etc. all about Compute and Storage (CS)
+-->
+
 
 # News
 - NOV, 2022 - [Serverless and Application Integration sessions at AWS re:Invent 2022](https://aws.amazon.com/blogs/compute/serverless-and-application-integration-sessions-at-aws-reinvent-2022/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=d82cc95e9e)
@@ -85,6 +93,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
+<--
 # Professions
 
 - Day-to-day Hours spent 
@@ -102,10 +111,11 @@ as Tech Lead / Manager (TLM)
   * Individual Contributor
   * Bar Raiser 
   * Miscs
-  
-  
 
-- Entire tenure has been on ```CloudNative & Serverless``` IaaS --> PaaS --> CaaS --> FaaS
+-->
+
+# Technical Fields
+- Entire tenure has been on ```CloudNative & Serverless```
 
 <!--- <p align="center">
   <img 

@@ -31,6 +31,7 @@ I am also interested in:
 
 # News
 - NOV, 2022 - [Serverless and Application Integration sessions at AWS re:Invent 2022](https://aws.amazon.com/blogs/compute/serverless-and-application-integration-sessions-at-aws-reinvent-2022/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=d82cc95e9e)
+- November 16, 2022 - [Container Day](https://www.wearedevelopers.com/event/container-day-1611)
 - October 26, 2022 - [Open Source After Dark Detroit](https://opensourceafterdarkdetroit.splashthat.com/)
 - October 24, 2022 - [Deep Dive for DevOps on Serverless Containers with Amazon ECS and AWS Fargate](https://technicaldeepdiveonserverlessc.splashthat.com/)
 - OCT, 3, 2022 - [AWS at KubeCon + CloudNativeCon North America 2022](https://aws.amazon.com/blogs/containers/aws-at-kubecon-cloudnativecon-north-america-2022/)

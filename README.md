@@ -80,7 +80,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Blog | Introducing AWS App Runner](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
 - https://aws.amazon.com/apprunner/
 - https://github.com/aws/apprunner-roadmap
-- [Fargate vs. App Runner](https://cloudonaut.io/fargate-vs-apprunner/)
+- [Fargate vs. App Runner by Andreas Wittig](https://cloudonaut.io/fargate-vs-apprunner/)
 
 ### Relation with "[Cyberpunk: Edgerunners](https://www.cyberpunk.net/en/edgerunners)"
 > Cyberpunk: Edgerunners (Japanese: サイバーパンク エッジランナーズ, Hepburn: Saibāpanku Ejjirannāzu) is a 2022 Polish-Japanese cyberpunk web anime series based on the video game Cyberpunk 2077 by CD Projekt Red. The series was produced by Studio Trigger under the supervision of CD Projekt and premiered on Netflix in September 2022.

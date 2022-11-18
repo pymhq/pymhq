@@ -30,6 +30,7 @@ I am also interested in:
 
 
 # News
+- NOV, 2022 - [What’s in store with AWS Storage at re:Invent 2022](https://aws.amazon.com/blogs/storage/reinvent-2022/)
 - NOV, 2022 - [Serverless and Application Integration sessions at AWS re:Invent 2022](https://aws.amazon.com/blogs/compute/serverless-and-application-integration-sessions-at-aws-reinvent-2022/?trk=global_employee_advocacy&sc_channel=sm&advocacy_source=everyonesocial&es_id=d82cc95e9e)
 - November 29, 2022 - [📢re:Invent SVS404-R1:A closer look at AWS Lambda](https://www.linkedin.com/posts/julianrwood_serverless-lambda-reinvent-activity-6998284223040077824-gCM7?utm_source=share&utm_medium=member_desktop)
 - Nov 17, 2022 - [Happy 5th birthday AWS Fargate!!](https://www.linkedin.com/video/event/urn:li:ugcPost:6998315450849734656/)

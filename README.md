@@ -79,6 +79,18 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Blog | Tracing an AWS App Runner service using AWS X-Ray with OpenTelemetry](https://aws.amazon.com/blogs/containers/tracing-an-aws-app-runner-service-using-aws-x-ray-with-opentelemetry/)
 
 # Learn more about 
+
+## Containers & Serverless 
+- [Serverless or Kubernetes on AWS](https://aws.amazon.com/architecture/serverless/serverless-or-kubernetes/)
+- [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)
+- [Containers at AWS](https://aws.amazon.com/containers/)
+- https://github.com/aws-containers
+- [Welcome to the AWS Containers Blog](https://aws.amazon.com/blogs/containers/welcome-to-the-aws-containers-blog/)
+
+## Compute Services
+- [Compute on AWS](https://aws.amazon.com/products/compute/)
+- [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
+
 ## App Runner
 - [InfoQ | Q&A with AWS VP of Compute Services Deepak Singh about AWS App Runner](https://www.infoq.com/news/2021/06/deepak-singh-aws/)
 - [Containers from the Couch | App Runner playlist](https://www.youtube.com/playlist?list=PLehXSATXjcQHjXDhdlypt0IB5BVD2xnoc)
@@ -91,16 +103,6 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 ### Relation with "[Cyberpunk: Edgerunners](https://www.cyberpunk.net/en/edgerunners)"
 > Cyberpunk: Edgerunners (Japanese: サイバーパンク エッジランナーズ, Hepburn: Saibāpanku Ejjirannāzu) is a 2022 Polish-Japanese cyberpunk web anime series based on the video game Cyberpunk 2077 by CD Projekt Red. The series was produced by Studio Trigger under the supervision of CD Projekt and premiered on Netflix in September 2022.
 
-## Containers & Serverless 
-- [Serverless or Kubernetes on AWS](https://aws.amazon.com/architecture/serverless/serverless-or-kubernetes/)
-- [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)
-- [Containers at AWS](https://aws.amazon.com/containers/)
-- https://github.com/aws-containers
-- [Welcome to the AWS Containers Blog](https://aws.amazon.com/blogs/containers/welcome-to-the-aws-containers-blog/)
-
-## Compute Services
-- [Compute on AWS](https://aws.amazon.com/products/compute/)
-- [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
 <!--
 # Professions 

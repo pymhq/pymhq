@@ -91,7 +91,8 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 ### Relation with "[Cyberpunk: Edgerunners](https://www.cyberpunk.net/en/edgerunners)"
 > Cyberpunk: Edgerunners (Japanese: サイバーパンク エッジランナーズ, Hepburn: Saibāpanku Ejjirannāzu) is a 2022 Polish-Japanese cyberpunk web anime series based on the video game Cyberpunk 2077 by CD Projekt Red. The series was produced by Studio Trigger under the supervision of CD Projekt and premiered on Netflix in September 2022.
 
-## Containers
+## Containers & Serverless 
+- [Serverless or Kubernetes on AWS](https://aws.amazon.com/architecture/serverless/serverless-or-kubernetes/)
 - [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)
 - [Containers at AWS](https://aws.amazon.com/containers/)
 - https://github.com/aws-containers

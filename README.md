@@ -53,7 +53,7 @@ I am also interested in:
 - April, 2022 - [Observability newsletter: AWS App Runner goes Otel](https://o11y.news/2022-04-18/)
 
 # Public Releases
-Deliverables I led / participated.
+Deliverables done.
 
 ## Amazon
 - https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/

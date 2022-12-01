@@ -88,8 +88,6 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Containers at AWS](https://aws.amazon.com/containers/)
 - https://github.com/aws-containers
 - [Welcome to the AWS Containers Blog](https://aws.amazon.com/blogs/containers/welcome-to-the-aws-containers-blog/)
-
-## Compute Services
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
@@ -101,6 +99,8 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - https://aws.amazon.com/apprunner/
 - https://github.com/aws/apprunner-roadmap
 - [Fargate vs. App Runner by Andreas Wittig](https://cloudonaut.io/fargate-vs-apprunner/)
+- [AWS re:Invent 2022 - Your first container in the cloud (CON207)](https://youtu.be/abTFdy47tP4)
+- [AWS re:Invent 2022 - A close look at AWS Fargate and AWS App Runner (CON406)](https://youtu.be/MZBbhqt6bQs)
 
 ### Relation with "[Cyberpunk: Edgerunners](https://www.cyberpunk.net/en/edgerunners)"
 > Cyberpunk: Edgerunners (Japanese: サイバーパンク エッジランナーズ, Hepburn: Saibāpanku Ejjirannāzu) is a 2022 Polish-Japanese cyberpunk web anime series based on the video game Cyberpunk 2077 by CD Projekt Red. The series was produced by Studio Trigger under the supervision of CD Projekt and premiered on Netflix in September 2022.

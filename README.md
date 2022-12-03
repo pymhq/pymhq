@@ -91,6 +91,9 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
+## Lambda
+- [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404)](https://youtu.be/EplOzQqgstA)
+
 ## App Runner
 - [InfoQ | Q&A with AWS VP of Compute Services Deepak Singh about AWS App Runner](https://www.infoq.com/news/2021/06/deepak-singh-aws/)
 - [Containers from the Couch | App Runner playlist](https://www.youtube.com/playlist?list=PLehXSATXjcQHjXDhdlypt0IB5BVD2xnoc)

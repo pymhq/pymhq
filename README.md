@@ -3,7 +3,7 @@ I am currently a Senior Software Engineer (TLM).
 
 - Technical fields: [Containers & Serverless](https://aws.amazon.com/products/compute/)
 - Products I've helped build & run: [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TL), ECS, Lambda, S3.
-- Program Committee Member & Speaker for @cncf
+- Program Committee Member & Speaker for [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/) | [Speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url) & [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 - Open-Source enthusiast. Founder & maintainer of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 

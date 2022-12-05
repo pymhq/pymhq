@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently a Senior Software Engineer (TLM) at technical fields: [Containers & Serverless](https://aws.amazon.com/products/compute/).
+I am currently a Senior Software Engineer (TLM) at technical fields [Containers & Serverless](https://aws.amazon.com/products/compute/).
 
 - Products I've helped build & run: [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TL), ECS, Lambda, S3.
 - Program Committee Member & Speaker for [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)

@@ -92,6 +92,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 
 ## Lambda
+- [Learn more about Serverlesspresso!](https://serverlessland.com/reinvent2022/serverlesspresso)
 - [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404)](https://youtu.be/EplOzQqgstA)
 - [AWS re:Invent 2019: [REPEAT 1] A serverless journey: AWS Lambda under the hood (SVS405-R1)](https://youtu.be/xmacMfbrG28)
 - [AWS re:Invent 2018: [REPEAT 1] A Serverless Journey: AWS Lambda Under the Hood (SRV409-R1)](https://youtu.be/QdzV04T_kec)

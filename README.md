@@ -30,6 +30,7 @@ I am also interested in:
 
 
 # News
+- NOV, 2022 - [Introducing new AWS Serverless digital learning badges](https://aws.amazon.com/blogs/compute/introducing-new-aws-serverless-digital-learning-badges/)
 - NOV, 2022 - [Happy 5th birthday, AWS Fargate!](https://aws.amazon.com/blogs/containers/happy-5th-birthday-aws-fargate/)
 - NOV, 2022 - [Know before you Go – serverless containers at AWS re:Invent 2022](https://aws.amazon.com/blogs/containers/know-before-you-go-serverless-containers-at-aws-reinvent-2022/)
 - NOV, 2022 - [What’s in store with AWS Storage at re:Invent 2022](https://aws.amazon.com/blogs/storage/reinvent-2022/)

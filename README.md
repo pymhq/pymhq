@@ -91,6 +91,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Welcome to the AWS Containers Blog](https://aws.amazon.com/blogs/containers/welcome-to-the-aws-containers-blog/)
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
+- [Containers from the Couch | AWS Speakers at KubeCon NA 2022](https://www.youtube.com/playlist?list=PLehXSATXjcQF69kb2CtpkqdR7s978fgST)
 
 ## Lambda
 - [Learn more about Serverlesspresso!](https://serverlessland.com/reinvent2022/serverlesspresso)

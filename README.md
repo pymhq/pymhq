@@ -30,6 +30,7 @@ I am also interested in:
 
 
 # News
+- JAN, 2023 - [[CN]1月19日活动预告|从技术到管理，高级工程师兼技术主管经理浅谈团队管理](https://mp.weixin.qq.com/s/NkG306k-7dw1jLEvaBBw0A)
 - NOV, 2022 - [Introducing new AWS Serverless digital learning badges](https://aws.amazon.com/blogs/compute/introducing-new-aws-serverless-digital-learning-badges/)
 - NOV, 2022 - [Happy 5th birthday, AWS Fargate!](https://aws.amazon.com/blogs/containers/happy-5th-birthday-aws-fargate/)
 - NOV, 2022 - [Know before you Go – serverless containers at AWS re:Invent 2022](https://aws.amazon.com/blogs/containers/know-before-you-go-serverless-containers-at-aws-reinvent-2022/)

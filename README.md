@@ -30,7 +30,7 @@ I am also interested in:
 
 
 # News
-- JAN, 2023 - [[CN]1月19日活动预告|从技术到管理，高级工程师兼技术主管经理浅谈团队管理](https://mp.weixin.qq.com/s/NkG306k-7dw1jLEvaBBw0A)
+- JAN, 2023 - [CUC Meetup|1月19日活动预告|从技术到管理，高级工程师兼技术主管经理浅谈团队管理](https://mp.weixin.qq.com/s/NkG306k-7dw1jLEvaBBw0A)
 - NOV, 2022 - [Introducing new AWS Serverless digital learning badges](https://aws.amazon.com/blogs/compute/introducing-new-aws-serverless-digital-learning-badges/)
 - NOV, 2022 - [Happy 5th birthday, AWS Fargate!](https://aws.amazon.com/blogs/containers/happy-5th-birthday-aws-fargate/)
 - NOV, 2022 - [Know before you Go – serverless containers at AWS re:Invent 2022](https://aws.amazon.com/blogs/containers/know-before-you-go-serverless-containers-at-aws-reinvent-2022/)
@@ -69,6 +69,7 @@ Deliverables done.
 # Publications
 
 ## Tech Talk 
+- CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) 📺 [YouTube](https://youtu.be/F24kUu2nFDY)
 - [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) 📺 [YouTube](https://youtu.be/6-akjOASvxc) (421 attending, 0 on the waitlist)
 - [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (16K views on live)
 

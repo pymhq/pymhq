@@ -151,6 +151,12 @@ as Tech Lead / Manager (TLM)
  </p>
 --->
 
+# Live
+- [Dr. Dre, Snoop Dogg, Eminem, Mary J. Blige, Kendrick Lamar & 50 Cent FULL Pepsi SB LVI Halftime Show](https://www.youtube.com/watch?v=gdsUKphmB3Y) (2022)
+- [Maroon 5 (feat. Travis Scott & Big Boi) | Pepsi Super Bowl LIII Halftime Show](https://www.youtube.com/watch?v=zIwkhEqVq4s) (2019)
+- [Coldplay's FULL Pepsi Super Bowl 50 Halftime Show feat. Beyoncé & Bruno Mars! | NFL](https://www.youtube.com/watch?v=c9cUytejf1k) (2016)
+
+
 # More
 - [personal website](http://yimingpeng.com/)
 - [twitter](https://twitter.com/pymhq)

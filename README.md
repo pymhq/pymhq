@@ -53,6 +53,7 @@ I am also interested in:
 - April, 2022 - [Save the date: AWS Containers events in May](https://aws.amazon.com/blogs/containers/save-the-date-aws-containers-events-in-may/)
 - April, 2022 - [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/)
 - April, 2022 - [Observability newsletter: AWS App Runner goes Otel](https://o11y.news/2022-04-18/)
+- Nov, 2018 - [Firecracker is now Open Source](https://www.youtube.com/watch?v=DrrvPqX_Qr8)
 
 # Public Releases
 Deliverables done.
@@ -94,6 +95,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Compute on AWS](https://aws.amazon.com/products/compute/)
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 - [Containers from the Couch | AWS Speakers at KubeCon NA 2022](https://www.youtube.com/playlist?list=PLehXSATXjcQF69kb2CtpkqdR7s978fgST)
+- [Serverless + Containers = Modern Cloud Applications](https://www.youtube.com/watch?v=q9Wa5KJURec)
 
 ## Lambda
 - [Learn more about Serverlesspresso!](https://serverlessland.com/reinvent2022/serverlesspresso)

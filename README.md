@@ -30,6 +30,7 @@ I am also interested in:
 
 
 # News
+- Mar, 2023 - [AWS Pi Day 2023](https://pages.awscloud.com/NAMER-field-OE-Pi-Day-2023-reg-event.html)
 - JAN, 2023 - [CUC Meetup|1月19日活动预告|从技术到管理，高级工程师兼技术主管经理浅谈团队管理](https://mp.weixin.qq.com/s/NkG306k-7dw1jLEvaBBw0A)
 - NOV, 2022 - [Introducing new AWS Serverless digital learning badges](https://aws.amazon.com/blogs/compute/introducing-new-aws-serverless-digital-learning-badges/)
 - NOV, 2022 - [Happy 5th birthday, AWS Fargate!](https://aws.amazon.com/blogs/containers/happy-5th-birthday-aws-fargate/)

@@ -89,6 +89,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 
 ## Containers & Serverless 
 - [Serverless or Kubernetes on AWS](https://aws.amazon.com/architecture/serverless/serverless-or-kubernetes/)
+- [Serverless on AWS](https://aws.amazon.com/serverless/)
 - [Team principles](https://github.com/aws/containers-roadmap/blob/master/PRINCIPLES.md)
 - [Containers at AWS](https://aws.amazon.com/containers/)
 - https://github.com/aws-containers

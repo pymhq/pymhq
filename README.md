@@ -60,6 +60,7 @@ I am also interested in:
 Deliverables done.
 
 ## Amazon
+- https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-https-redirect/
 - https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/
 - https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/
 - https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/
@@ -98,6 +99,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Whitepapers | Compute Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/compute-services.html)
 - [Containers from the Couch | AWS Speakers at KubeCon NA 2022](https://www.youtube.com/playlist?list=PLehXSATXjcQF69kb2CtpkqdR7s978fgST)
 - [Serverless + Containers = Modern Cloud Applications](https://www.youtube.com/watch?v=q9Wa5KJURec)
+- [Amazon EC2 names explained](https://justingarrison.com/blog/2023-02-23-ec2-names-explained/)
 
 ## Lambda
 - [Learn more about Serverlesspresso!](https://serverlessland.com/reinvent2022/serverlesspresso)

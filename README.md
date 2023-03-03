@@ -101,6 +101,9 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Serverless + Containers = Modern Cloud Applications](https://www.youtube.com/watch?v=q9Wa5KJURec)
 - [Amazon EC2 names explained](https://justingarrison.com/blog/2023-02-23-ec2-names-explained/)
 
+## S3
+- [FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3](https://youtu.be/sc3J4McebHE)
+
 ## Lambda
 - [Learn more about Serverlesspresso!](https://serverlessland.com/reinvent2022/serverlesspresso)
 - [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404)](https://youtu.be/EplOzQqgstA)

@@ -106,6 +106,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3](https://youtu.be/sc3J4McebHE)
 - [AWS re:Invent 2019: Beyond eleven nines: Lessons from Amazon S3 culture of durability (STG331-R1)](https://youtu.be/DzRyrvUF-C0)
 - [Amazon S3 Update – Strong Read-After-Write Consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
+- [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
 
 ## Lambda
 - [Learn more about Serverlesspresso!](https://serverlessland.com/reinvent2022/serverlesspresso)

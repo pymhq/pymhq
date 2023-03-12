@@ -55,6 +55,7 @@ I am also interested in:
 - April, 2022 - [Save the date: AWS Containers events in May](https://aws.amazon.com/blogs/containers/save-the-date-aws-containers-events-in-may/)
 - April, 2022 - [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/)
 - April, 2022 - [Observability newsletter: AWS App Runner goes Otel](https://o11y.news/2022-04-18/)
+- May, 2021 - [AWS Announces General Availability of AWS App Runner](https://press.aboutamazon.com/2021/5/aws-announces-general-availability-of-aws-app-runner)
 - Nov, 2018 - [Firecracker is now Open Source](https://www.youtube.com/watch?v=DrrvPqX_Qr8)
 
 # Public Releases

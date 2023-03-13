@@ -111,6 +111,8 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404)](https://youtu.be/EplOzQqgstA)
 - [AWS re:Invent 2019: [REPEAT 1] A serverless journey: AWS Lambda under the hood (SVS405-R1)](https://youtu.be/xmacMfbrG28)
 - [AWS re:Invent 2018: [REPEAT 1] A Serverless Journey: AWS Lambda Under the Hood (SRV409-R1)](https://youtu.be/QdzV04T_kec)
+- [AWS Lambda is Generally Available](https://aws.amazon.com/blogs/compute/aws-lambda-is-generally-available/)
+- [AWS re:Invent 2014 | Announcing AWS Lambda](https://youtu.be/9eHoyUVo-yg)
 
 ## S3
 - [FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3](https://youtu.be/sc3J4McebHE)
@@ -128,6 +130,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Fargate vs. App Runner by Andreas Wittig](https://cloudonaut.io/fargate-vs-apprunner/)
 - [AWS re:Invent 2022 - Your first container in the cloud (CON207)](https://youtu.be/abTFdy47tP4)
 - [AWS re:Invent 2022 - A close look at AWS Fargate and AWS App Runner (CON406)](https://youtu.be/MZBbhqt6bQs)
+- [AWS re:Invent 2017 - Introducing AWS Fargate](https://youtu.be/8i82i9QYUGs)
 
 ### Relation with "[Cyberpunk: Edgerunners](https://www.cyberpunk.net/en/edgerunners)"
 > Cyberpunk: Edgerunners (Japanese: サイバーパンク エッジランナーズ, Hepburn: Saibāpanku Ejjirannāzu) is a 2022 Polish-Japanese cyberpunk web anime series based on the video game Cyberpunk 2077 by CD Projekt Red. The series was produced by Studio Trigger under the supervision of CD Projekt and premiered on Netflix in September 2022.

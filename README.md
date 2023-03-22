@@ -75,8 +75,8 @@ Deliverables done.
 
 ## Tech Talk 
 - CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) 📺 [YouTube](https://youtu.be/F24kUu2nFDY)
-- [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) 📺 [YouTube](https://youtu.be/6-akjOASvxc) (421 attending, 0 on the waitlist)
-- [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (16K views on live)
+- [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) 📺 [YouTube](https://youtu.be/6-akjOASvxc) (650+ attendees)
+- [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (> 16K attendees)
 
 ![DockerCon talk](svg/cftc202205.png)
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a software engineer in Seattle, WA. Technical fields: [Containers & Serverless](https://aws.amazon.com/products/compute/).
 
-- Products I've helped build & run: [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TL), S3.
+- Products I've helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TL).
 - Program Committee member & speaker for [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/) | [Speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url) & [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 - Open-Source enthusiast. Founder & host of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
@@ -31,6 +31,7 @@ I am also interested in:
 
 # News
 - Apr, 2023 - [AWS at KubeCon + CloudNativeCon Europe 2023](https://aws-kubecon-eu.splashthat.com/)
+- Mar, 2023 - [AWS Week in Review – March 20, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-20-2023/)
 - Mar, 2023 - [AWS Pi Day 2023](https://pages.awscloud.com/NAMER-field-OE-Pi-Day-2023-reg-event.html)
 - JAN, 2023 - [CUC Meetup|1月19日活动预告|从技术到管理，高级工程师兼技术主管经理浅谈团队管理](https://mp.weixin.qq.com/s/NkG306k-7dw1jLEvaBBw0A)
 - NOV, 2022 - [Introducing new AWS Serverless digital learning badges](https://aws.amazon.com/blogs/compute/introducing-new-aws-serverless-digital-learning-badges/)

@@ -1,10 +1,11 @@
 ### Hi there 👋
 I am a software engineer in Seattle, WA. Technical fields: [Containers & Serverless](https://aws.amazon.com/products/compute/).
 
+- Problem solver, creator of software, serverless addict, open-source enthusiast, community host
 - Products I've helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TL).
-- Program Committee member & speaker for [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf)
+- [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) ambassador, program committee member & speaker.  
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/) | [Speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url) & [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
-- Open-Source enthusiast. Founder & host of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
+- Founder & host of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
 
 <!--
 My specialties: 

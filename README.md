@@ -3,9 +3,9 @@ I am a software engineer in Seattle, WA. Technical fields: [Containers & Serverl
 
 - Problem solver, creator of software, serverless addict, open-source enthusiast, community host
 - Products I've helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TL).
-- [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) ambassador, program committee member & speaker.  
-- [Pathfinder](https://youtu.be/WGA2P_oH5Xc) | [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/) | [Speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url) & [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/) | [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
-- Founder & host of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
+- [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) ambassador + program committee member + [speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url).  
+- Creator & mainatiner of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
+- More: [Pathfinder](https://youtu.be/WGA2P_oH5Xc), [builder](https://aws.amazon.com/builders-library/), [inventor](https://reinvent.awsevents.com/), [content creator](https://aws.amazon.com/blogs/containers/author/yimipeng/), [bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 
 <!--
 My specialties: 

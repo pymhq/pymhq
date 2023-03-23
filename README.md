@@ -120,6 +120,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS re:Invent 2019: Beyond eleven nines: Lessons from Amazon S3 culture of durability (STG331-R1)](https://youtu.be/DzRyrvUF-C0)
 - [Amazon S3 Update – Strong Read-After-Write Consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
 - [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
+- [Getting started with Amazon S3 - Demo](https://youtu.be/FZCZbPEMlXk)
 
 ## Fargate, App Runner
 - [InfoQ | Q&A with AWS VP of Compute Services Deepak Singh about AWS App Runner](https://www.infoq.com/news/2021/06/deepak-singh-aws/)

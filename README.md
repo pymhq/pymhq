@@ -78,8 +78,8 @@ Deliverables done.
 ## Tech Talk 
 - AWS at KubeCon + CloudNativeCon Europe 2023
 
-![AWS Booth](svg/eubootha)
-![AWS Booth](svg/euboothb)
+![AWS Booth](svg/eubootha.png)
+![AWS Booth](svg/euboothb.png)
 
 - CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) 📺 [YouTube](https://youtu.be/F24kUu2nFDY)
 - [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) 📺 [YouTube](https://youtu.be/6-akjOASvxc) (650+ attendees)

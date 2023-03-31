@@ -4,7 +4,7 @@ I am a software engineer based in Seattle, WA. Technical fields: [Containers & S
 - Problem solver, creator of software, serverless addict, open-source enthusiast, community host
 - Products I've helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TLM).
 - [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) ambassador + program committee member + [speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url).  
-- Creator & mainatiner of [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup)
+- Creator & mainatiner of community [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup) and newsletter [Learn Some Software Infrastructure This Month](https://learnsomesoftwareinfrastructurethismonth.beehiiv.com/subscribe)
 - More: [Pathfinder](https://youtu.be/WGA2P_oH5Xc), [builder](https://aws.amazon.com/builders-library/), [inventor](https://reinvent.awsevents.com/), [content creator](https://aws.amazon.com/blogs/containers/author/yimipeng/), [bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 
 <!--
@@ -76,9 +76,13 @@ Deliverables done.
 # Publications
 
 ## Tech Talk 
+- AWS at KubeCon + CloudNativeCon Europe 2023
+
+![AWS Booth](svg/bootha)
+
 - CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) 📺 [YouTube](https://youtu.be/F24kUu2nFDY)
 - [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) 📺 [YouTube](https://youtu.be/6-akjOASvxc) (650+ attendees)
-- [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (> 16K attendees)
+- [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (16K+ attendees)
 
 ![DockerCon talk](svg/cftc202205.png)
 

@@ -77,8 +77,9 @@ Deliverables done.
 
 ## Tech Talk 
 - AWS at KubeCon + CloudNativeCon Europe 2023
-![AWS Booth](svg/euboothb.png | width=500)
-![AWS Booth](svg/eubootha.png | width=500)
+
+<img src="svg/euboothb.png" width="500">
+<img src="svg/eubootha.png" width="500">
 
 
 - CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) 📺 [YouTube](https://youtu.be/F24kUu2nFDY)

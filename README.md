@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a software engineer based in Seattle, WA. Technical fields: [Containers & Serverless](https://aws.amazon.com/products/compute/).
 
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - Problem solver, creator of software, serverless addict, open-source enthusiast, community host
 - Products I've helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TLM).
 - [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) ambassador + program committee member + [speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url).  

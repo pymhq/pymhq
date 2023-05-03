@@ -2,11 +2,11 @@
 I am a software engineer based in Seattle, WA. Technical fields: [Serverless & Containers](https://aws.amazon.com/products/compute/).
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
-- Problem solver, creator of software, serverless addict, open-source enthusiast, community host
-- Products I've helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TLM).
-- [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) ambassador + program committee member + [speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url).  
-- Creator & mainatiner of community [```CloudNative-Serverless-Meetup```](https://github.com/CloudNative-Serverless-Meetup) and newsletter [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/)
-- More: [Pathfinder](https://youtu.be/WGA2P_oH5Xc), [builder](https://aws.amazon.com/builders-library/), [inventor](https://reinvent.awsevents.com/), [content creator](https://aws.amazon.com/blogs/containers/author/yimipeng/), [bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
+- [Pathfinder](https://youtu.be/WGA2P_oH5Xc), creator of software, serverless addict, open-source enthusiast
+- [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/), products helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TLM).
+- [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) [ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=us&p=yiming-peng) + program committee member + [speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url).  
+- Founder & mainatiner of community [```CloudNative-Serverless-Meetup```](https://www.linkedin.com/company/cloud-native-serverless-meetup/) and newsletter [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/)
+- More: [Bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon), [author](https://aws.amazon.com/blogs/containers/author/yimipeng/)
 
 <!--
 My specialties: 
@@ -32,6 +32,7 @@ I am also interested in:
 
 
 # News
+- May, 2023 - [AWS SERVERLESS INNOVATION DAY 2023](https://pages.awscloud.com/GLOBAL-event-LS-aws-serverless-innovation-day-2023-reg-event.html)
 - Apr, 2023 - [AWS at KubeCon + CloudNativeCon Europe 2023](https://aws-kubecon-eu.splashthat.com/)
 - Mar, 2023 - [AWS Week in Review – March 20, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-20-2023/)
 - Mar, 2023 - [AWS Pi Day 2023](https://pages.awscloud.com/NAMER-field-OE-Pi-Day-2023-reg-event.html)
@@ -77,14 +78,20 @@ Deliverables done.
 # Publications
 
 ## Tech Talk 
-- [AWS Container Day ft. Kubernetes](https://aws-kubecon-eu.splashthat.com/) | [The open-source community at AWS: containerd and Envoy](https://www.linkedin.com/feed/update/urn:li:activity:7049506752223997952/) [More reads](https://aws.amazon.com/blogs/opensource/behind-the-scenes-on-aws-contributions-to-cloud-native-open-source-projects/)
-- CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) 📺 [YouTube](https://youtu.be/F24kUu2nFDY)
-- [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) 📺 [YouTube](https://youtu.be/6-akjOASvxc) (650+ attendees)
+- [Seattle Women in Tech Regatta 2023](https://www.womenintechregatta.com/) | [Myth-Busting Tech Trends](https://seattleregatta2023.sched.com/event/1LEF6/myth-busting-tech-trends-supported-by-northeastern-university-uw-medicine)
+  - Moderators: Padmaja Vrudhula, VP Industry Vertical Workload Solutions, Snowflake; Speakers: Yiming Peng, Sr. Software Development Engineer, AWS, Morgan Zion, CEO, Alpha Girl Club, Caroline Williams, Founder, The Do Good Only Company
+- AWS Container Day ft. Kubernetes @KubeConEU| [The open-source community at AWS: containerd and Envoy](https://twitter.com/AWSOpen/status/1647989049305575428?s=20) [More reads](https://aws.amazon.com/blogs/opensource/behind-the-scenes-on-aws-contributions-to-cloud-native-open-source-projects/)
+  - Presenters: Phil Estes, Principal Engineer, AWS and Yiming Peng, Sr. Software Development Engineer, AWS
+- CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) 📺 [YouTube](https://youtu.be/F24kUu2nFDY) (220+ attendees)
+  - Moderator: Zheng Luo, Software Engineer, Microsoft Azure; Speaker: Yiming Peng, Sr. Software Development Engineer, AWS
+- [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) 📺 [YouTube](https://youtu.be/6-akjOASvxc) (600+ attendees)
+  - Presenter: Yiming Peng, Sr. Software Development Engineer, AWS
 - [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (16K+ attendees)
 
 ![DockerCon talk](svg/cftc202205.png)
 
 - Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch 📺 [YouTube](https://youtu.be/cVr8N7enCMM)
+  - Moderator: Adam Keller, Senior Technologist, AWS; Speaker: Yiming Peng, Sr. Software Development Engineer, AWS
 
 ## Tech Article
 https://aws.amazon.com/blogs/containers/author/yimipeng/

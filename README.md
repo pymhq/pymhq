@@ -4,13 +4,11 @@ I am a software engineer based in Seattle, WA. Technical fields: [Serverless & C
 - Creator and maintainer of:
   - Community: [```CloudNative-Serverless-Meetup```](https://www.linkedin.com/company/cloud-native-serverless-meetup/) (Follow it)
   - Newsletter: [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/) (Subscribe it if you like, and don’t forget check the confirmation email in inbox, it is double opt-in)
-
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc), creator of software, serverless addict, open-source enthusiast
 - [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/), products helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TLM) @aws
 - @cncf [ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=us&p=yiming-peng) + program committee member + [speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url).  
 - More: [Bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon), [author](https://aws.amazon.com/blogs/containers/author/yimipeng/)
-
 - Open Source projects engagements: @envoyproxy, @containerd, @open-telemetry, @firecracker-microvm, @knative, @apache/kafka etc.
 
 <!--

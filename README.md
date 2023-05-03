@@ -1,18 +1,22 @@
 ### Hi there 👋
 I am a software engineer based in Seattle, WA. Technical fields: [Serverless & Containers](https://aws.amazon.com/products/compute/).
 
+- Creator and maintainer of:
+  - Community: [```CloudNative-Serverless-Meetup```](https://www.linkedin.com/company/cloud-native-serverless-meetup/) (Follow it)
+  - Newsletter: [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/) (Subscribe it if you like, and don’t forget check the confirmation email in inbox, it is double opt-in)
+
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc), creator of software, serverless addict, open-source enthusiast
 - [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/), products helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TLM).
 - [Cloud Native Computing Foundation (CNCF)](https://github.com/cncf) [ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=us&p=yiming-peng) + program committee member + [speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url).  
-- Founder & mainatiner of community [```CloudNative-Serverless-Meetup```](https://www.linkedin.com/company/cloud-native-serverless-meetup/) and newsletter [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/)
 - More: [Bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon), [author](https://aws.amazon.com/blogs/containers/author/yimipeng/)
+
+- Open Source projects engagements: @envoyproxy, @containerd, @open-telemetry, @firecracker-microvm, @apache/kafka, @grpc, @knative, @docker etc.
 
 <!--
 My specialties: 
 - Cloud-Native | Container Compute | Serverless | Open-Source
-- Distributed System
-- Open-Source: [Kafka](https://kafka.apache.org/), [Flink](https://flink.apache.org/), [EnvoyProxy](https://www.envoyproxy.io/), [gRPC](https://grpc.io/), [OpenTelemetry](https://opentelemetry.io/), [Firecracker](https://firecracker-microvm.github.io/), [containerd](https://containerd.io/), [Docker](https://www.docker.com/) etc.  -->
+- Distributed System  -->
 
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -195,4 +199,4 @@ as Tech Lead / Manager (TLM)
 - [linkedin](https://www.linkedin.com/in/pengyiming/)
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=pymhk.pymhk)
+![](https://visitor-badge.glitch.me/badge?page_id=pymhq.pymhq)

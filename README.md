@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer based in Seattle, WA. Technical fields: [Containers & Serverless](https://aws.amazon.com/products/compute/).
+I am a software engineer based in Seattle, WA. Technical fields: [Serverless & Containers](https://aws.amazon.com/products/compute/).
 
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - Problem solver, creator of software, serverless addict, open-source enthusiast, community host

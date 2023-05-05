@@ -95,17 +95,17 @@ Deliverables done.
 ## Tech Talk 
 - [Seattle Women in Tech Regatta 2023](https://www.womenintechregatta.com/) | [Myth-Busting Tech Trends](https://seattleregatta2023.sched.com/event/1LEF6/myth-busting-tech-trends-supported-by-northeastern-university-uw-medicine)
   - Moderators: Padmaja Vrudhula, VP Industry Vertical Workload Solutions, Snowflake; Speakers: Yiming Peng, Sr. Software Development Engineer, AWS, Morgan Zion, CEO, Alpha Girl Club, Caroline Williams, Founder, The Do Good Only Company
-- AWS Container Day ft. Kubernetes @KubeConEU| [The open-source community at AWS: containerd and Envoy](https://twitter.com/AWSOpen/status/1647989049305575428?s=20) [More reads](https://aws.amazon.com/blogs/opensource/behind-the-scenes-on-aws-contributions-to-cloud-native-open-source-projects/)
+- AWS Container Day ft. Kubernetes @KubeConEU| The open-source community at AWS: containerd and Envoy <a href="https://twitter.com/AWSOpen/status/1647989049305575428?s=20"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="30" height="30"></a> [More reads](https://aws.amazon.com/blogs/opensource/behind-the-scenes-on-aws-contributions-to-cloud-native-open-source-projects/)
   - Presenters: Phil Estes, Principal Engineer, AWS and Yiming Peng, Sr. Software Development Engineer, AWS
-- CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) <a href="https://youtu.be/F24kUu2nFDY"><img src="https://img.icons8.com/color/96/000000/youtube.png" width="10" height="10"></a> (220+ attendees) 
+- CUC Meetup | 从技术到管理，高级工程师兼技术主管经理浅谈团队管理 (Engineering Manager's First 180 Days) <a href="https://youtu.be/F24kUu2nFDY"><img src="https://img.icons8.com/color/96/000000/youtube.png" width="30" height="30"></a> (220+ attendees) 
   - Moderator: Zheng Luo, Software Engineer, Microsoft Azure; Speaker: Yiming Peng, Sr. Software Development Engineer, AWS
-- [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) 📺 [YouTube](https://youtu.be/6-akjOASvxc) (600+ attendees)
+- [KubeCon + CloudNativeCon North America 2022](https://pages.awscloud.com/KubeCon-2022.html) | [Building multi-tenant routing and scaling with Envoy](https://kccncna2022.sched.com/event/182KU/building-multi-tenant-routing-and-scaling-with-envoy-yiming-peng-amazon-web-services-inc?iframe=no) <a href="https://youtu.be/6-akjOASvxc"><img src="https://img.icons8.com/color/96/000000/youtube.png" width="30" height="30"></a> (600+ attendees)
   - Presenter: Yiming Peng, Sr. Software Development Engineer, AWS
-- [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily 📺 [YouTube](https://youtu.be/Iyp9Ugk9oRs) | [Twitch](https://www.twitch.tv/aws/video/1481107467) (16K+ attendees)
+- [Container Day – Docker Con](https://awscontainerdaydocker.splashthat.com/) | How Developers can get to production web applications at scale easily <a href="https://youtu.be/Iyp9Ugk9oRs"><img src="https://img.icons8.com/color/96/000000/youtube.png" width="30" height="30"></a> | <a href="https://www.twitch.tv/aws/video/1481107467"><img src="https://img.icons8.com/color/96/000000/twitch.png" width="30" height="30"></a> (16K+ attendees)
 
 ![DockerCon talk](svg/cftc202205.png)
 
-- Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch 📺 [YouTube](https://youtu.be/cVr8N7enCMM)
+- Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch <a href="https://youtu.be/cVr8N7enCMM"><img src="https://img.icons8.com/color/96/000000/youtube.png" width="30" height="30"></a>
   - Moderator: Adam Keller, Senior Technologist, AWS; Speaker: Yiming Peng, Sr. Software Development Engineer, AWS
 
 ## Tech Article

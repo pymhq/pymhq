@@ -106,7 +106,7 @@ Deliverables done.
 
 ![DockerCon talk](svg/cftc202205.png)
 
-- Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch <a href="https://youtu.be/cVr8N7enCMM"><img src="https://img.icons8.com/color/48/null/youtube-play.png"/></a>
+- Containers from the Couch | AWS App Runner X-Ray Integration Feature Launch <a href="https://youtu.be/cVr8N7enCMM"><img src="https://img.icons8.com/color/480/null/youtube-play.png"/></a>
   - Moderator: Adam Keller, Senior Technologist, AWS; Speaker: Yiming Peng, Sr. Software Development Engineer, AWS
 
 ## Tech Article

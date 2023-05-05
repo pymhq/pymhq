@@ -1,5 +1,7 @@
-### Hi there 👋
-I am a software engineer based in Seattle, WA. Technical fields: [Serverless & Containers](https://aws.amazon.com/products/compute/).
+# Hi there 👋, I'm ANDY
+## I'm a Software Engineer based in Seattle, WA; a Speaker, Author, Community Host
+
+Technical fields: [Serverless & Containers](https://aws.amazon.com/products/compute/).
 
 - Creator and maintainer of:
   - Community: [```CloudNative-Serverless-Meetup```](https://www.linkedin.com/company/cloud-native-serverless-meetup/) (Follow it)
@@ -32,6 +34,11 @@ I am also interested in:
 - Quantum Computing, Edge Computing, ARM etc. all about Compute and Storage (CS)
 -->
 
+## Connect with Me On Social Media 🤝🏻
+
+<a href="https://www.linkedin.com/in/pengyiming"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="40" height="40"></a>
+<a href="https://twitter.com/pymhq"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="40" height="40"></a>
+<a href="https://cloud-native.social/@pym"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png" width="36" height="36"></a>
 
 # News
 - May, 2023 - [AWS SERVERLESS INNOVATION DAY 2023](https://pages.awscloud.com/GLOBAL-event-LS-aws-serverless-innovation-day-2023-reg-event.html)

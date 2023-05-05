@@ -2,8 +2,9 @@
 ## I'm a Software Engineer based in Seattle, WA; a Speaker, [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/), Community Host
 
 Technical fields: [Serverless & Containers](https://aws.amazon.com/products/compute/).
+  - <img src="svg/icons8-subscribe.gif" width="40" height="40" /> Newsletter: [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/) (Subscribe it if you like, and don’t forget check the confirmation email in inbox, it is double opt-in)
   - Community: [```CloudNative-Serverless-Meetup```](https://www.linkedin.com/company/cloud-native-serverless-meetup/) (Follow it)
-  - Newsletter: [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/) (Subscribe it if you like, and don’t forget check the confirmation email in inbox, it is double opt-in)
+
 
 <a href="https://www.linkedin.com/company/cloud-native-serverless-meetup/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="40" height="40"></a>
 <a href="https://twitter.com/cloudsvsmeetup"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="40" height="40"></a>

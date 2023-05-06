@@ -49,7 +49,7 @@ I am also interested in:
 <a href="https://cloud-native.social/@pym"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png" width="36" height="36"></a>
 <a href="https://www.instagram.com/pymhq.sea/"><img src="https://img.icons8.com/color/96/000000/instagram.png" width="40" height="40"></a>
 <a href="https://medium.com/@pymhq"><img src="https://img.icons8.com/color/96/000000/medium.png" width="40" height="40"></a>
-<a href="https://www.buymeacoffee.com/pymhq"><img src=svg/social/bmc-logo-no-background.png width="40" height="40"></a>
+<!-- <a href="https://www.buymeacoffee.com/pymhq"><img src=svg/social/bmc-logo-no-background.png width="40" height="40"></a> -->
 
 
 # News

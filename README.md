@@ -208,8 +208,6 @@ as Tech Lead / Manager (TLM)
 
 # More
 - [personal website](http://yimingpeng.com/)
-- [twitter](https://twitter.com/pymhq)
-- [linkedin](https://www.linkedin.com/in/pengyiming/)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pymhq.pymhq)

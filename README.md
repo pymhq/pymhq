@@ -1,5 +1,5 @@
 # Hi there 👋, I'm ANDY
-## I'm a Software Engineer based in Seattle, WA; a Public Speaker, [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/), Community Host
+## I'm a [Software Engineer](http://yimingpeng.com/) based in Seattle, WA; a Public Speaker, [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/), Community Host
 
 Technical fields: [Serverless & Containers](https://aws.amazon.com/products/compute/).
   - <img src="svg/icons8-subscribe.gif" width="40" height="40" /> Newsletter: [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/) (Subscribe it if you like, and don’t forget check the confirmation email in inbox, it is double opt-in)

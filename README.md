@@ -1,5 +1,5 @@
 # Hi there 👋, I'm ANDY
-## I'm a [Software Engineer](http://yimingpeng.com/) based in Seattle, WA; a Public Speaker, [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/), Community Host
+## I'm a [Software Engineer](http://yimingpeng.com/) based in Seattle, WA; a Public Speaker, [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/), Community Lead and Tech Advisory Board
 
 Technical fields: [Serverless & Containers](https://aws.amazon.com/products/compute/).
   - <img src="svg/icons8-subscribe.gif" width="40" height="40" /> Newsletter: [Learn Some Software Infrastructure This Month](https://www.learnsomesoftwareinfrastructurethismonth.com/) (Subscribe it if you like, and don’t forget check the confirmation email in inbox, it is double opt-in)
@@ -14,10 +14,10 @@ Technical fields: [Serverless & Containers](https://aws.amazon.com/products/comp
 <a href="https://cloudnativ-svs-meetup.slack.com/"><img src="https://img.icons8.com/color/96/000000/slack.png" width="40" height="40"></a>
 <a href="https://hachyderm.io/@serverlessaddict"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-mastodon-is-an-online-self-hosted-social-media-and-social-networking-service-logo-color-tal-revivo.png" width="36" height="36"></a>
 
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 🌱 I’m currently learning **Generative AI**, [Rust](https://www.rust-lang.org/)
 - [Pathfinder](https://youtu.be/WGA2P_oH5Xc), creator of software, serverless addict, open-source enthusiast
-- [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/), products helped build & run: S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TLM) @aws
-- @cncf [ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=us&p=yiming-peng) + program committee member + [speaker](https://www.credly.com/badges/eca5b42d-89c1-41a8-a9fc-a661e9b933cf/public_url).  
+- [Builder](https://aws.amazon.com/builders-library/) & [Inventor](https://reinvent.awsevents.com/), products helped build & run: Amazon S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding Engineer & TLM)
+- Program Committee @linuxfoundation; @cncf [ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=us&p=yiming-peng); Community Lead of [Cloud Native Seattle](https://community.cncf.io/cloud-native-seattle/).  
 - More: [Bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 - Open Source projects engagements: @envoyproxy, @containerd, @open-telemetry, @firecracker-microvm, @knative, @apache/kafka etc.
 
@@ -53,6 +53,7 @@ I am also interested in:
 
 
 # News
+- June, 2023 - [Happy 5th Birthday Amazon EKS!](https://aws.amazon.com/blogs/containers/happy-5th-birthday-amazon-eks/)
 - May, 2023 - [AWS SERVERLESS INNOVATION DAY 2023](https://pages.awscloud.com/GLOBAL-event-LS-aws-serverless-innovation-day-2023-reg-event.html)
 - Apr, 2023 - [AWS at KubeCon + CloudNativeCon Europe 2023](https://aws-kubecon-eu.splashthat.com/)
 - Mar, 2023 - [AWS Week in Review – March 20, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-20-2023/)
@@ -136,6 +137,16 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [Serverless + Containers = Modern Cloud Applications](https://www.youtube.com/watch?v=q9Wa5KJURec)
 - [Amazon EC2 names explained](https://justingarrison.com/blog/2023-02-23-ec2-names-explained/)
 
+# EC2 (Elastic Compute Cloud)
+- [Secure and resizable cloud compute – Amazon EC2](https://aws.amazon.com/ec2/)
+
+## S3
+- [FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3](https://youtu.be/sc3J4McebHE)
+- [AWS re:Invent 2019: Beyond eleven nines: Lessons from Amazon S3 culture of durability (STG331-R1)](https://youtu.be/DzRyrvUF-C0)
+- [Amazon S3 Update – Strong Read-After-Write Consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
+- [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
+- [Getting started with Amazon S3 - Demo](https://youtu.be/FZCZbPEMlXk)
+
 ## Lambda
 "Original plan was when someone uploads file, they might want to quickly run some compute on it... upload .jpg and run compute to change the resolution, then it moved on to I upload my log files, I want to run some code checks I do not have ssh keys or password or confidential data, it pretty quickly spread out into: lambda this product should actually be much more generic and used by much more than just S3, the name Lambda was actually picked by .. it was a S3 product."
 
@@ -147,12 +158,6 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 - [AWS Lambda is Generally Available](https://aws.amazon.com/blogs/compute/aws-lambda-is-generally-available/)
 - [AWS re:Invent 2014 | Announcing AWS Lambda](https://youtu.be/9eHoyUVo-yg)
 
-## S3
-- [FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3](https://youtu.be/sc3J4McebHE)
-- [AWS re:Invent 2019: Beyond eleven nines: Lessons from Amazon S3 culture of durability (STG331-R1)](https://youtu.be/DzRyrvUF-C0)
-- [Amazon S3 Update – Strong Read-After-Write Consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)
-- [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
-- [Getting started with Amazon S3 - Demo](https://youtu.be/FZCZbPEMlXk)
 
 ## Fargate, App Runner
 - [InfoQ | Q&A with AWS VP of Compute Services Deepak Singh about AWS App Runner](https://www.infoq.com/news/2021/06/deepak-singh-aws/)

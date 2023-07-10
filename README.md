@@ -22,7 +22,6 @@ Technical fields: [Serverless & Containers](https://aws.amazon.com/products/comp
 - A [Pathfinder](https://youtu.be/WGA2P_oH5Xc), software [builder](https://aws.amazon.com/builders-library/) & [inventor](https://reinvent.awsevents.com/), technology addict, [bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
 - Products helped build & run: Amazon S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding member & TLM), Alexa Healthcare (Founding member & TL)
 - Program Committee @linuxfoundation; @cncf [ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=us&p=yiming-peng); Community Lead of [Cloud Native Seattle](https://community.cncf.io/cloud-native-seattle/).  
-- Open Source projects engagements: @envoyproxy, @containerd, @open-telemetry, @firecracker-microvm, @knative, @apache/kafka etc.
 
 <!--
 My specialties: 
@@ -132,6 +131,9 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 -->
 
 # Additional Readings
+
+## Data & AI
+- [Why AWS is investing in a zero-ETL future](https://www.linkedin.com/pulse/why-aws-investing-zero-etl-future-swami-sivasubramanian%3FtrackingId=RU4I%252FUoBT4m3Hg46Rf991A%253D%253D/?trackingId=RU4I%2FUoBT4m3Hg46Rf991A%3D%3D)
 
 ## S3 (Simple Storage Service)
 - [AWS VP on Importance of Data Strategy to Pivot to AI](https://www.bloomberg.com/news/videos/2023-06-15/aws-vp-on-importance-of-data-strategy-to-pivot-to-ai-video)

@@ -134,6 +134,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 # Additional Readings
 
 ## S3 (Simple Storage Service)
+- [AWS VP on Importance of Data Strategy to Pivot to AI](https://www.bloomberg.com/news/videos/2023-06-15/aws-vp-on-importance-of-data-strategy-to-pivot-to-ai-video)
 - [FAST '23 - Building and Operating a Pretty Big Storage System (My Adventures in Amazon S3](https://youtu.be/sc3J4McebHE)
 - [AWS re:Invent 2019: Beyond eleven nines: Lessons from Amazon S3 culture of durability (STG331-R1)](https://youtu.be/DzRyrvUF-C0)
 - [Amazon S3 Update – Strong Read-After-Write Consistency](https://aws.amazon.com/blogs/aws/amazon-s3-update-strong-read-after-write-consistency/)

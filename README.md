@@ -159,6 +159,7 @@ https://aws.amazon.com/blogs/containers/author/yimipeng/
 ## Lambda
 "Original plan was when someone uploads file, they might want to quickly run some compute on it... upload .jpg and run compute to change the resolution, then it moved on to I upload my log files, I want to run some code checks I do not have ssh keys or password or confidential data, it pretty quickly spread out into: lambda this product should actually be much more generic and used by much more than just S3, the name Lambda was actually picked by .. it was a S3 product."
 
+- [Understanding AWS Lambda’s invoke throttling limits](https://aws.amazon.com/blogs/compute/understanding-aws-lambdas-invoke-throttle-limits/)
 - [AWS Lambda for the containers developer](https://aws.amazon.com/blogs/containers/aws-lambda-for-the-containers-developer/)
 - [Learn more about Serverlesspresso!](https://serverlessland.com/reinvent2022/serverlesspresso)
 - [AWS re:Invent 2022 - A closer look at AWS Lambda (SVS404)](https://youtu.be/EplOzQqgstA)

@@ -1,5 +1,5 @@
 # Hi there 👋, I'm ANDY
-I'm a [Software Engineer](http://yimingpeng.com/) based in Seattle, WA; a Public Speaker, [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/), Community Lead and Tech Advisory Board
+I'm a [Software Engineer](https://pymslu.com/) based in Seattle, WA; a Public Speaker, [Author](https://aws.amazon.com/blogs/containers/author/yimipeng/), Community Lead and Tech Advisory Board
 
 <!--
 
@@ -20,7 +20,7 @@ Technical fields: [Serverless & Containers](https://aws.amazon.com/products/comp
 --> 
 - 🌱 I’m currently learning **Generative AI**, [Rust](https://www.rust-lang.org/)
 - A [Pathfinder](https://youtu.be/WGA2P_oH5Xc), software [builder](https://aws.amazon.com/builders-library/) & [inventor](https://reinvent.awsevents.com/), technology addict, [bar raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon)
-- Products helped build & run: Amazon S3, [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/), [App Runner](https://aws.amazon.com/apprunner/) (Founding member & TLM), Alexa Healthcare (Founding member & TL)
+- Products helped build & run: Amazon S3, Lambda / [App Runner](https://aws.amazon.com/apprunner/) (Founding member & TLM), [Fargate](https://aws.amazon.com/blogs/containers/under-the-hood-fargate-data-plane/) etc.
 - Program Committee @linuxfoundation; @cncf [ambassador](https://www.cncf.io/people/ambassadors/?_sft_lf-country=us&p=yiming-peng); Community Lead of [Cloud Native Seattle](https://community.cncf.io/cloud-native-seattle/).  
 
 <!--
@@ -88,7 +88,7 @@ I am also interested in:
 --> 
 
 # Public Releases
-[Link](http://yimingpeng.com/projects) 
+[Link](https://pymslu.com/projects) 
 
 <!--
 ## Amazon
@@ -103,7 +103,7 @@ I am also interested in:
 -->
 
 # Publications
-[Link](http://yimingpeng.com/publications)
+[Link](https://pymslu.com/publications)
 
 <!--
 ## Tech Talk 

@@ -1,7 +1,9 @@
 
 # Learn from world-wide LSE, Outage, Disruption
 
-
+### 2025
+* 2025/06 GCP: https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW
+  - https://www.cloudflarestatus.com/incidents/25r9t0vz99rp
 ### 2024
 * 2024/12 OpenAI: https://status.openai.com/incidents/ctrsv3lwd797
 * 2024/07 CRWD: https://www.crowdstrike.com/blog/technical-details-on-todays-outage/

@@ -2,7 +2,7 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2025
-* 2025/10 amzn: https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update 
+* 2025/10/20 amzn: https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update 
 * 2025/06 GCP: https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW
   - https://www.cloudflarestatus.com/incidents/25r9t0vz99rp
 ### 2024

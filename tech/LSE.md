@@ -2,6 +2,9 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 ### 2025
+* 2025/11 open review:
+  - https://openreview.net/forum/user%7Cinitial_analysis_of_openreview_api_security_incident
+  - https://openreview.net/forum/user%7Cstatement_regarding_api_security_incident
 * 2025/10/20 amzn: https://aws.amazon.com/message/101925/, https://www.aboutamazon.com/news/aws/aws-service-disruptions-outage-update 
 * 2025/06 GCP: https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW
   - https://www.cloudflarestatus.com/incidents/25r9t0vz99rp

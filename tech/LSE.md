@@ -1,6 +1,17 @@
 
 # Learn from world-wide LSE, Outage, Disruption
 
+
+### 2025
+* 2026/03 Claude
+  - https://status.claude.com/
+  - https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/
+ 
+* 2026/03 amzn
+  - https://health.aws.amazon.com/health/status
+  - https://news.ycombinator.com/item?id=47209781
+  - https://www.datacenterknowledge.com/outages/aws-middle-east-outage-after-data-center-hit-by-unidentified-objects
+
 ### 2025
 * 2025/11 open review:
   - https://openreview.net/forum/user%7Cinitial_analysis_of_openreview_api_security_incident

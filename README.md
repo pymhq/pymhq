@@ -5,7 +5,6 @@ coffee chats & casual conversations with [Andy Peng](https://pengandy.com).
 
 - [x] [Book a coffee chat →](https://calendly.com/pengandy) &nbsp;*pick a time that works for you*
 - [x] [Donate](https://www.paypal.biz/pengandystudio) &nbsp;*buy me a coffee, totally optional*
-- [x] [Email](mailto:pengandy.build@gmail.com) &nbsp;*pengandy dot build at gmail dot com*
 
 ---
 

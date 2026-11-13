@@ -2,7 +2,10 @@
 # Learn from world-wide LSE, Outage, Disruption
 
 
-### 2025
+### 2026
+* 2026/11 msft
+  - https://x.com/MSFT365Status/status/2120938282204688468?a=LG9LRxSTe4a4Zns1XEY&s=20
+
 * 2026/03 Claude
   - https://status.claude.com/
   - https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-a-worldwide-outage/

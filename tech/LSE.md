@@ -4,6 +4,7 @@
 
 ### 2026
 * 2026/11 msft
+  - https://x.com/clamanna/status/2122209697226948729?a=govge5f7X8D_svcMcaA&s=20
   - https://x.com/MSFT365Status/status/2120938282204688468?a=LG9LRxSTe4a4Zns1XEY&s=20
 
 * 2026/03 Claude
